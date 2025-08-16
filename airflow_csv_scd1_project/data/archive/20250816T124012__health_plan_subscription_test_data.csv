@@ -1,0 +1,1001 @@
+Subscription_ID,CustomerID,Tenure,NumTransactions,AvgTransactionAmount,Churned,Age,Gender,City,AccountType,MonthlyFee,Plan_Type,Duration_Months,Price_INR,Start_Date,End_Date,Status,Payment_Method
+S0001,C0260,13,12,4064.7,Yes,64,Other,Hyderabad,Standard,2499,Annual,12,29988,2025-03-23,2026-03-23,Expired,Credit Card
+S0002,C0087,20,42,2433.74,Yes,18,F,Ahmedabad,Premium,499,Monthly,1,499,2024-09-02,2024-10-02,On Hold,Net Banking
+S0003,C0049,2,3,736.92,Yes,26,Other,Delhi,Premium,1999,Monthly,1,1999,2024-01-10,2024-02-10,Cancelled,Net Banking
+S0004,C0255,15,6,2720.35,No,22,F,Bengaluru,Basic,2499,Custom,8,19992,2023-09-18,2024-05-18,Expired,Net Banking
+S0005,C0186,27,43,2157.15,No,51,M,Jaipur,Premium,2499,Quarterly,3,7497,2024-08-01,2024-11-01,On Hold,Debit Card
+S0006,C0452,42,55,787.38,Yes,47,M,Jaipur,Basic,1999,Custom,15,29985,2025-03-11,2026-06-11,Expired,Credit Card
+S0007,C0181,32,33,4530.52,No,22,Other,Chennai,Basic,2499,Custom,2,4998,2024-03-12,2024-05-12,On Hold,Net Banking
+S0008,C0304,43,75,4420.2,No,50,M,Pune,Basic,999,Quarterly,3,2997,2024-05-30,2024-08-30,Active,Debit Card
+S0009,C0276,54,88,4027.2,Yes,59,F,Mumbai,Basic,499,Quarterly,3,1497,2023-08-26,2023-11-26,Cancelled,Debit Card
+S0010,C0057,40,3,1409.05,No,56,M,Delhi,Premium,999,Annual,12,11988,2025-08-02,2026-08-02,On Hold,UPI
+S0011,C0271,47,102,4204.63,No,44,Other,Pune,Standard,999,Monthly,1,999,2025-02-19,2025-03-19,On Hold,Debit Card
+S0012,C0364,8,8,2520.54,No,40,F,Mumbai,Basic,1999,Annual,12,23988,2023-09-11,2024-09-11,On Hold,UPI
+S0013,C0389,2,5,654.13,No,59,Other,Chennai,Standard,2499,Monthly,1,2499,2024-07-29,2024-08-29,Expired,Net Banking
+S0014,C0430,8,10,2183.12,Yes,53,M,Jaipur,Premium,2499,Quarterly,3,7497,2024-06-04,2024-09-04,Expired,Credit Card
+S0015,C0385,18,46,1548.93,No,20,F,Jaipur,Basic,2499,Quarterly,3,7497,2024-07-27,2024-10-27,On Hold,UPI
+S0016,C0441,8,23,1577.84,Yes,31,Other,Mumbai,Premium,1999,Quarterly,3,5997,2024-04-03,2024-07-03,On Hold,Credit Card
+S0017,C0390,44,16,882.89,No,54,Other,Hyderabad,Premium,1499,Custom,14,20986,2023-11-30,2025-01-30,Cancelled,Net Banking
+S0018,C0319,59,97,3183.81,No,52,Other,Delhi,Basic,999,Custom,6,5994,2025-03-22,2025-09-22,Expired,Debit Card
+S0019,C0133,12,19,1706.36,No,44,F,Lucknow,Basic,1499,Monthly,1,1499,2024-08-26,2024-09-26,On Hold,Debit Card
+S0020,C0100,30,81,1323.8,Yes,40,Other,Jaipur,Basic,499,Custom,11,5489,2024-06-29,2025-05-29,On Hold,UPI
+S0021,C0411,8,16,2196.58,No,24,Other,Delhi,Premium,1999,Monthly,1,1999,2025-08-01,2025-09-01,Active,UPI
+S0022,C0010,31,80,3498.83,Yes,36,F,Hyderabad,Basic,999,Annual,12,11988,2024-07-28,2025-07-28,On Hold,Credit Card
+S0023,C0479,49,96,3088.03,Yes,62,M,Mumbai,Premium,1499,Annual,12,17988,2024-07-12,2025-07-12,Cancelled,Debit Card
+S0024,C0422,51,70,4813.12,Yes,23,M,Delhi,Basic,1999,Monthly,1,1999,2025-08-08,2025-09-08,Expired,Credit Card
+S0025,C0262,2,3,2214.88,No,21,F,Kolkata,Premium,1499,Annual,12,17988,2025-06-08,2026-06-08,Expired,Credit Card
+S0026,C0046,25,39,2878.32,Yes,41,M,Pune,Basic,2499,Quarterly,3,7497,2024-05-11,2024-08-11,On Hold,UPI
+S0027,C0166,40,58,1373.89,No,39,Other,Mumbai,Standard,1999,Quarterly,3,5997,2023-11-27,2024-02-27,Active,Credit Card
+S0028,C0243,28,8,4551.89,Yes,27,F,Delhi,Premium,2499,Custom,5,12495,2025-03-02,2025-08-02,On Hold,Credit Card
+S0029,C0026,17,21,4495.93,Yes,32,Other,Mumbai,Standard,2499,Quarterly,3,7497,2024-03-27,2024-06-27,Expired,Credit Card
+S0030,C0215,1,3,4491.19,Yes,57,M,Jaipur,Standard,1499,Monthly,1,1499,2023-09-12,2023-10-12,Active,UPI
+S0031,C0422,25,17,3075.73,No,45,M,Lucknow,Standard,999,Annual,12,11988,2024-11-24,2025-11-24,Active,UPI
+S0032,C0254,9,17,640.18,No,19,M,Jaipur,Basic,1999,Monthly,1,1999,2023-11-30,2023-12-30,On Hold,Credit Card
+S0033,C0477,23,38,1495.2,Yes,41,M,Ahmedabad,Basic,499,Quarterly,3,1497,2025-01-28,2025-04-28,Expired,Debit Card
+S0034,C0235,19,35,4481.18,Yes,65,F,Bengaluru,Premium,2499,Quarterly,3,7497,2024-07-09,2024-10-09,Expired,Credit Card
+S0035,C0062,34,61,4105.66,No,39,F,Jaipur,Standard,499,Quarterly,3,1497,2024-05-14,2024-08-14,On Hold,Credit Card
+S0036,C0490,52,9,4043.18,Yes,43,M,Jaipur,Basic,2499,Quarterly,3,7497,2023-12-17,2024-03-17,On Hold,Debit Card
+S0037,C0489,59,138,3074.52,Yes,22,M,Mumbai,Basic,499,Monthly,1,499,2023-11-27,2023-12-27,Active,UPI
+S0038,C0025,55,98,3146.93,No,63,Other,Pune,Standard,1999,Custom,16,31984,2024-10-20,2026-02-20,Active,Credit Card
+S0039,C0453,25,60,3722.3,No,51,F,Lucknow,Basic,1499,Custom,20,29980,2023-10-31,2025-06-30,Active,Debit Card
+S0040,C0213,46,23,1635.89,Yes,20,F,Lucknow,Premium,499,Quarterly,3,1497,2024-10-03,2025-01-03,Active,UPI
+S0041,C0400,46,138,1620.01,Yes,37,Other,Mumbai,Premium,499,Quarterly,3,1497,2024-12-03,2025-03-03,Cancelled,Net Banking
+S0042,C0487,57,72,1163.0,Yes,50,Other,Kolkata,Premium,1999,Custom,5,9995,2024-04-04,2024-09-04,On Hold,Debit Card
+S0043,C0161,55,22,1072.99,Yes,64,M,Delhi,Premium,499,Monthly,1,499,2024-05-24,2024-06-24,Expired,Credit Card
+S0044,C0315,13,29,4837.78,Yes,32,F,Bengaluru,Basic,2499,Custom,23,57477,2024-10-05,2026-09-05,Cancelled,Debit Card
+S0045,C0048,13,6,2469.57,Yes,34,Other,Hyderabad,Premium,1499,Annual,12,17988,2024-03-19,2025-03-19,On Hold,UPI
+S0046,C0270,47,9,4946.07,Yes,29,F,Jaipur,Premium,499,Monthly,1,499,2025-04-20,2025-05-20,Expired,Debit Card
+S0047,C0344,59,104,3579.16,Yes,36,Other,Kolkata,Basic,1999,Monthly,1,1999,2023-10-03,2023-11-03,On Hold,Net Banking
+S0048,C0171,2,6,2838.51,No,32,M,Kolkata,Basic,999,Quarterly,3,2997,2023-12-24,2024-03-24,On Hold,UPI
+S0049,C0278,55,24,4143.16,Yes,59,F,Ahmedabad,Basic,2499,Quarterly,3,7497,2024-01-03,2024-04-03,Active,Net Banking
+S0050,C0062,27,24,3427.6,No,23,M,Lucknow,Standard,1499,Custom,8,11992,2025-07-01,2026-03-01,Cancelled,UPI
+S0051,C0224,54,75,4151.3,Yes,65,F,Hyderabad,Standard,1499,Monthly,1,1499,2024-09-02,2024-10-02,Active,Debit Card
+S0052,C0224,57,156,1883.11,Yes,52,M,Bengaluru,Basic,2499,Monthly,1,2499,2024-06-23,2024-07-23,Expired,Debit Card
+S0053,C0338,6,3,3080.46,No,43,F,Delhi,Premium,1999,Custom,24,47976,2024-10-10,2026-10-10,Expired,Net Banking
+S0054,C0268,16,28,4151.58,No,52,M,Bengaluru,Basic,499,Annual,12,5988,2025-07-23,2026-07-23,Cancelled,Debit Card
+S0055,C0294,27,28,2158.65,Yes,31,Other,Jaipur,Standard,2499,Custom,10,24990,2023-11-13,2024-09-13,Expired,Net Banking
+S0056,C0179,7,19,541.57,Yes,49,Other,Chennai,Basic,1999,Quarterly,3,5997,2025-04-20,2025-07-20,Expired,UPI
+S0057,C0398,32,5,2235.52,Yes,27,M,Kolkata,Basic,499,Monthly,1,499,2024-07-07,2024-08-07,Active,Debit Card
+S0058,C0160,49,105,3598.42,Yes,20,F,Hyderabad,Basic,1999,Custom,15,29985,2025-05-21,2026-08-21,Expired,Debit Card
+S0059,C0469,40,38,4932.94,Yes,33,Other,Pune,Basic,1999,Custom,1,1999,2024-02-02,2024-03-02,On Hold,Debit Card
+S0060,C0454,25,29,4151.1,No,31,Other,Pune,Standard,1999,Quarterly,3,5997,2025-03-02,2025-06-02,Cancelled,Net Banking
+S0061,C0346,32,95,1079.13,Yes,28,F,Jaipur,Standard,999,Monthly,1,999,2025-03-16,2025-04-16,On Hold,Debit Card
+S0062,C0366,21,11,4533.78,Yes,44,F,Pune,Basic,1499,Quarterly,3,4497,2024-11-14,2025-02-14,On Hold,Debit Card
+S0063,C0253,25,39,4039.38,Yes,27,M,Kolkata,Basic,999,Annual,12,11988,2025-05-24,2026-05-24,Expired,Net Banking
+S0064,C0471,28,41,4636.54,No,60,M,Chennai,Basic,999,Monthly,1,999,2024-03-29,2024-04-29,Active,Credit Card
+S0065,C0273,13,21,2845.08,Yes,54,Other,Ahmedabad,Premium,1499,Monthly,1,1499,2025-01-08,2025-02-08,Cancelled,Credit Card
+S0066,C0353,11,18,2122.0,Yes,59,Other,Lucknow,Standard,1499,Annual,12,17988,2024-06-01,2025-06-01,Expired,Debit Card
+S0067,C0135,47,12,2365.52,No,56,M,Pune,Basic,999,Custom,4,3996,2024-08-13,2024-12-13,Expired,UPI
+S0068,C0101,8,1,3549.28,Yes,23,F,Chennai,Basic,499,Quarterly,3,1497,2023-12-12,2024-03-12,Cancelled,UPI
+S0069,C0154,14,5,4753.71,No,58,Other,Ahmedabad,Basic,2499,Monthly,1,2499,2024-09-25,2024-10-25,On Hold,UPI
+S0070,C0080,34,45,1566.14,No,21,F,Jaipur,Premium,1499,Annual,12,17988,2024-04-12,2025-04-12,Expired,Net Banking
+S0071,C0157,9,8,1848.0,No,41,Other,Kolkata,Basic,1999,Custom,6,11994,2023-11-26,2024-05-26,Active,UPI
+S0072,C0163,36,20,3549.6,No,51,Other,Jaipur,Basic,1499,Custom,19,28481,2025-02-01,2026-09-01,Cancelled,Net Banking
+S0073,C0303,42,60,1322.07,No,45,Other,Jaipur,Standard,2499,Monthly,1,2499,2024-05-23,2024-06-23,Cancelled,Credit Card
+S0074,C0019,39,117,2596.29,Yes,33,F,Lucknow,Standard,1499,Monthly,1,1499,2024-04-01,2024-05-01,Cancelled,Net Banking
+S0075,C0209,18,35,3932.21,No,33,Other,Ahmedabad,Standard,1499,Monthly,1,1499,2023-09-10,2023-10-10,Expired,Debit Card
+S0076,C0376,47,3,3642.66,Yes,29,F,Kolkata,Premium,499,Quarterly,3,1497,2024-01-26,2024-04-26,Expired,Debit Card
+S0077,C0278,60,55,4267.53,Yes,34,Other,Bengaluru,Premium,499,Quarterly,3,1497,2024-12-02,2025-03-02,Active,UPI
+S0078,C0224,37,101,4851.74,Yes,30,F,Kolkata,Basic,499,Custom,8,3992,2024-02-11,2024-10-11,Expired,Credit Card
+S0079,C0114,53,114,1670.11,Yes,41,Other,Kolkata,Standard,999,Monthly,1,999,2024-11-19,2024-12-19,Expired,UPI
+S0080,C0179,34,8,2339.04,No,57,M,Lucknow,Standard,999,Annual,12,11988,2024-07-13,2025-07-13,On Hold,Debit Card
+S0081,C0227,4,5,4131.99,No,29,M,Pune,Standard,1499,Annual,12,17988,2025-05-13,2026-05-13,Cancelled,UPI
+S0082,C0415,53,86,2966.69,Yes,27,Other,Delhi,Basic,2499,Custom,14,34986,2024-01-18,2025-03-18,On Hold,Debit Card
+S0083,C0088,49,81,3638.4,Yes,38,Other,Hyderabad,Premium,2499,Monthly,1,2499,2024-05-31,2024-06-30,Active,Debit Card
+S0084,C0383,50,48,2744.95,Yes,29,F,Delhi,Premium,499,Custom,19,9481,2025-03-24,2026-10-24,Cancelled,Debit Card
+S0085,C0298,42,52,3857.19,Yes,49,Other,Jaipur,Standard,2499,Monthly,1,2499,2023-09-15,2023-10-15,On Hold,Debit Card
+S0086,C0453,49,33,709.55,No,32,M,Kolkata,Basic,499,Quarterly,3,1497,2025-08-02,2025-11-02,Expired,UPI
+S0087,C0337,25,34,3368.07,No,56,Other,Bengaluru,Basic,1499,Monthly,1,1499,2024-08-06,2024-09-06,On Hold,Credit Card
+S0088,C0134,51,35,958.99,Yes,53,Other,Chennai,Standard,1499,Annual,12,17988,2025-08-11,2026-08-11,Expired,Debit Card
+S0089,C0480,34,18,4766.42,Yes,35,M,Hyderabad,Standard,499,Annual,12,5988,2024-12-07,2025-12-07,On Hold,Debit Card
+S0090,C0052,49,142,2674.75,No,39,M,Kolkata,Basic,2499,Custom,17,42483,2025-02-16,2026-07-16,Cancelled,Net Banking
+S0091,C0111,32,75,600.51,No,42,Other,Hyderabad,Premium,1999,Quarterly,3,5997,2023-08-28,2023-11-28,Cancelled,Debit Card
+S0092,C0301,57,115,4436.61,Yes,27,M,Lucknow,Basic,2499,Quarterly,3,7497,2024-04-17,2024-07-17,Active,UPI
+S0093,C0243,47,10,842.42,Yes,40,F,Jaipur,Premium,1999,Custom,20,39980,2025-07-09,2027-03-09,Expired,UPI
+S0094,C0044,44,45,3023.62,Yes,26,Other,Bengaluru,Standard,1499,Monthly,1,1499,2024-12-17,2025-01-17,Expired,UPI
+S0095,C0077,29,2,3459.28,Yes,52,M,Jaipur,Standard,1999,Annual,12,23988,2025-05-02,2026-05-02,Cancelled,Net Banking
+S0096,C0254,24,33,3872.84,Yes,37,F,Bengaluru,Basic,1499,Annual,12,17988,2024-01-16,2025-01-16,Cancelled,Debit Card
+S0097,C0331,1,2,2353.77,Yes,21,M,Jaipur,Premium,999,Monthly,1,999,2025-07-20,2025-08-20,Expired,UPI
+S0098,C0445,22,59,2666.42,No,35,Other,Hyderabad,Premium,1999,Annual,12,23988,2025-01-23,2026-01-23,Expired,UPI
+S0099,C0091,47,141,2544.83,No,34,F,Kolkata,Basic,2499,Custom,12,29988,2025-01-13,2026-01-13,Cancelled,Net Banking
+S0100,C0176,56,129,2628.65,Yes,49,Other,Jaipur,Basic,1499,Annual,12,17988,2024-02-23,2025-02-23,Cancelled,Net Banking
+S0101,C0215,49,18,1857.86,Yes,38,F,Jaipur,Premium,499,Custom,11,5489,2024-10-23,2025-09-23,Active,Debit Card
+S0102,C0257,34,13,4831.71,Yes,53,Other,Kolkata,Premium,1499,Custom,15,22485,2024-01-09,2025-04-09,Expired,Net Banking
+S0103,C0009,38,106,4815.83,Yes,50,M,Ahmedabad,Basic,499,Monthly,1,499,2024-04-22,2024-05-22,Expired,Debit Card
+S0104,C0089,14,29,1793.18,Yes,29,F,Ahmedabad,Standard,999,Quarterly,3,2997,2024-04-17,2024-07-17,On Hold,Credit Card
+S0105,C0161,8,12,1456.72,Yes,51,Other,Chennai,Standard,2499,Custom,1,2499,2025-01-18,2025-02-18,Cancelled,Debit Card
+S0106,C0292,47,133,3031.67,Yes,54,M,Pune,Premium,999,Annual,12,11988,2025-05-11,2026-05-11,Cancelled,Net Banking
+S0107,C0214,2,2,4258.83,Yes,23,Other,Bengaluru,Standard,499,Custom,6,2994,2024-01-29,2024-07-29,Cancelled,Debit Card
+S0108,C0389,29,40,4292.91,Yes,26,M,Delhi,Standard,2499,Monthly,1,2499,2025-05-11,2025-06-11,Active,UPI
+S0109,C0252,20,10,889.1,No,38,Other,Chennai,Basic,999,Custom,8,7992,2025-08-06,2026-04-06,On Hold,Credit Card
+S0110,C0015,34,46,3454.77,Yes,52,Other,Hyderabad,Basic,1999,Quarterly,3,5997,2024-01-16,2024-04-16,Cancelled,Credit Card
+S0111,C0127,24,25,1082.07,Yes,29,Other,Pune,Basic,499,Custom,13,6487,2024-02-17,2025-03-17,Active,Credit Card
+S0112,C0351,5,14,2514.97,Yes,27,F,Mumbai,Premium,1999,Quarterly,3,5997,2023-11-11,2024-02-11,Cancelled,Credit Card
+S0113,C0037,54,44,4739.62,No,25,F,Mumbai,Premium,999,Custom,1,999,2024-11-01,2024-12-01,On Hold,Net Banking
+S0114,C0115,60,73,1482.44,Yes,26,M,Bengaluru,Basic,2499,Custom,8,19992,2025-07-22,2026-03-22,Active,Debit Card
+S0115,C0191,34,50,2553.39,Yes,57,M,Delhi,Basic,999,Annual,12,11988,2025-03-29,2026-03-29,Active,Credit Card
+S0116,C0107,13,6,2500.55,No,35,M,Lucknow,Standard,999,Quarterly,3,2997,2023-10-10,2024-01-10,Cancelled,Net Banking
+S0117,C0043,40,102,4711.4,No,39,Other,Kolkata,Premium,999,Monthly,1,999,2023-10-11,2023-11-11,Cancelled,Debit Card
+S0118,C0001,21,61,4849.76,Yes,46,F,Ahmedabad,Standard,1999,Annual,12,23988,2024-02-02,2025-02-02,Cancelled,UPI
+S0119,C0327,45,13,2170.41,Yes,48,Other,Pune,Basic,1499,Annual,12,17988,2023-09-30,2024-09-30,On Hold,UPI
+S0120,C0055,38,31,3890.73,No,56,Other,Bengaluru,Standard,1999,Annual,12,23988,2023-11-14,2024-11-14,Expired,UPI
+S0121,C0073,15,33,4439.98,No,30,Other,Mumbai,Standard,2499,Custom,2,4998,2024-05-06,2024-07-06,Active,Debit Card
+S0122,C0013,55,16,4515.75,No,49,Other,Kolkata,Basic,1999,Custom,18,35982,2024-12-23,2026-06-23,Cancelled,Net Banking
+S0123,C0150,10,28,1252.28,Yes,48,F,Lucknow,Premium,1499,Custom,14,20986,2024-01-29,2025-03-29,Expired,Credit Card
+S0124,C0336,35,42,2525.47,No,26,M,Kolkata,Premium,499,Quarterly,3,1497,2025-07-26,2025-10-26,Cancelled,UPI
+S0125,C0210,53,106,4344.13,Yes,39,F,Pune,Basic,499,Monthly,1,499,2024-12-18,2025-01-18,Expired,Credit Card
+S0126,C0207,52,127,2360.18,No,44,M,Jaipur,Premium,2499,Quarterly,3,7497,2023-10-30,2024-01-30,Active,Credit Card
+S0127,C0145,5,8,3057.21,Yes,33,Other,Jaipur,Standard,1999,Custom,14,27986,2024-03-20,2025-05-20,Active,Credit Card
+S0128,C0477,12,27,4753.7,No,63,M,Ahmedabad,Premium,499,Custom,4,1996,2024-08-15,2024-12-15,On Hold,Debit Card
+S0129,C0104,4,10,3559.31,Yes,61,Other,Hyderabad,Premium,1499,Quarterly,3,4497,2025-04-21,2025-07-21,Active,Credit Card
+S0130,C0048,10,28,957.65,No,46,M,Lucknow,Basic,2499,Quarterly,3,7497,2025-02-24,2025-05-24,On Hold,Debit Card
+S0131,C0334,5,13,4743.57,No,49,F,Hyderabad,Basic,1499,Custom,23,34477,2024-01-25,2025-12-25,Expired,UPI
+S0132,C0245,6,8,809.58,No,30,M,Chennai,Premium,999,Monthly,1,999,2024-12-26,2025-01-26,On Hold,Debit Card
+S0133,C0159,1,3,3545.91,Yes,61,F,Jaipur,Standard,499,Monthly,1,499,2023-09-20,2023-10-20,On Hold,Debit Card
+S0134,C0010,58,93,2055.35,No,30,M,Kolkata,Standard,1999,Monthly,1,1999,2024-08-02,2024-09-02,On Hold,Credit Card
+S0135,C0028,39,23,639.08,Yes,20,Other,Hyderabad,Premium,1999,Quarterly,3,5997,2025-04-01,2025-07-01,Cancelled,Net Banking
+S0136,C0287,11,9,2698.52,No,58,F,Ahmedabad,Basic,2499,Custom,11,27489,2024-11-03,2025-10-03,Active,Credit Card
+S0137,C0300,39,64,3188.31,Yes,30,M,Delhi,Premium,499,Quarterly,3,1497,2023-12-19,2024-03-19,Expired,Credit Card
+S0138,C0466,43,25,4997.88,Yes,61,F,Delhi,Standard,1999,Custom,2,3998,2024-08-07,2024-10-07,Expired,Credit Card
+S0139,C0298,36,72,833.37,Yes,26,F,Lucknow,Premium,2499,Monthly,1,2499,2024-09-11,2024-10-11,On Hold,UPI
+S0140,C0073,46,17,1158.65,No,42,M,Delhi,Premium,2499,Annual,12,29988,2023-10-06,2024-10-06,Cancelled,Net Banking
+S0141,C0272,16,4,1553.47,No,29,M,Ahmedabad,Premium,499,Quarterly,3,1497,2023-10-17,2024-01-17,Active,Debit Card
+S0142,C0068,31,73,2948.54,Yes,60,F,Pune,Basic,499,Monthly,1,499,2025-06-30,2025-07-30,Cancelled,Net Banking
+S0143,C0003,43,70,2023.81,Yes,36,M,Mumbai,Basic,2499,Custom,3,7497,2023-10-16,2024-01-16,Cancelled,Net Banking
+S0144,C0197,48,61,3230.81,Yes,53,M,Chennai,Premium,1999,Custom,18,35982,2023-08-31,2025-02-28,Cancelled,Debit Card
+S0145,C0471,34,7,3317.89,No,53,Other,Delhi,Standard,1499,Monthly,1,1499,2024-01-29,2024-02-29,Expired,Credit Card
+S0146,C0099,1,2,2630.78,Yes,51,M,Kolkata,Basic,1499,Custom,8,11992,2025-01-06,2025-09-06,Active,UPI
+S0147,C0021,50,83,4804.07,Yes,51,M,Chennai,Standard,1499,Custom,19,28481,2023-08-30,2025-03-30,Expired,UPI
+S0148,C0472,27,53,3455.74,Yes,58,Other,Mumbai,Basic,999,Custom,6,5994,2023-09-20,2024-03-20,Expired,UPI
+S0149,C0456,17,12,4480.69,Yes,31,Other,Delhi,Premium,2499,Custom,24,59976,2025-07-17,2027-07-17,Active,Debit Card
+S0150,C0195,35,94,3535.13,No,31,M,Ahmedabad,Premium,999,Custom,8,7992,2023-08-18,2024-04-18,Cancelled,Credit Card
+S0151,C0202,10,4,2130.22,Yes,26,F,Kolkata,Standard,1499,Monthly,1,1499,2025-02-23,2025-03-23,On Hold,Net Banking
+S0152,C0459,3,8,3311.8,Yes,62,M,Hyderabad,Standard,1499,Custom,17,25483,2025-01-03,2026-06-03,On Hold,UPI
+S0153,C0439,31,69,4146.4,No,57,Other,Jaipur,Standard,1499,Custom,13,19487,2024-09-24,2025-10-24,Expired,UPI
+S0154,C0006,26,77,1134.82,No,37,F,Pune,Premium,1499,Quarterly,3,4497,2024-11-17,2025-02-17,Active,Net Banking
+S0155,C0361,47,131,880.21,Yes,37,F,Lucknow,Premium,499,Annual,12,5988,2023-09-07,2024-09-07,Cancelled,Net Banking
+S0156,C0176,43,27,2153.3,No,52,Other,Pune,Basic,1999,Quarterly,3,5997,2024-01-26,2024-04-26,On Hold,Net Banking
+S0157,C0023,47,5,3164.91,Yes,44,F,Bengaluru,Premium,999,Quarterly,3,2997,2025-01-04,2025-04-04,Expired,Credit Card
+S0158,C0364,40,98,2895.76,Yes,30,M,Mumbai,Premium,499,Monthly,1,499,2024-05-11,2024-06-11,On Hold,Net Banking
+S0159,C0149,14,17,3120.55,Yes,50,F,Ahmedabad,Standard,1499,Quarterly,3,4497,2024-10-28,2025-01-28,Expired,Debit Card
+S0160,C0128,41,36,2363.62,No,56,Other,Chennai,Basic,999,Custom,19,18981,2024-05-14,2025-12-14,Cancelled,Credit Card
+S0161,C0407,38,21,4679.21,Yes,26,Other,Kolkata,Standard,499,Custom,17,8483,2024-04-13,2025-09-13,Active,UPI
+S0162,C0284,32,65,4904.86,No,25,Other,Bengaluru,Premium,999,Quarterly,3,2997,2024-08-26,2024-11-26,Cancelled,Debit Card
+S0163,C0056,25,57,2576.36,Yes,30,M,Ahmedabad,Standard,1999,Quarterly,3,5997,2024-11-13,2025-02-13,On Hold,Debit Card
+S0164,C0068,24,11,689.48,Yes,30,F,Bengaluru,Standard,1999,Quarterly,3,5997,2023-09-08,2023-12-08,Expired,Debit Card
+S0165,C0378,47,62,2293.57,Yes,35,F,Hyderabad,Premium,499,Annual,12,5988,2024-09-01,2025-09-01,Cancelled,Credit Card
+S0166,C0113,43,54,1795.48,No,23,M,Mumbai,Basic,999,Quarterly,3,2997,2024-01-17,2024-04-17,Expired,Net Banking
+S0167,C0453,45,53,3495.1,No,56,F,Chennai,Premium,499,Annual,12,5988,2025-03-25,2026-03-25,Expired,Debit Card
+S0168,C0065,6,6,4644.86,Yes,49,F,Kolkata,Standard,1999,Quarterly,3,5997,2025-06-20,2025-09-20,Cancelled,Credit Card
+S0169,C0346,7,16,4062.55,No,63,M,Kolkata,Basic,1499,Quarterly,3,4497,2024-10-16,2025-01-16,Expired,Debit Card
+S0170,C0030,51,74,3444.76,No,31,M,Jaipur,Standard,1999,Custom,23,45977,2024-04-06,2026-03-06,On Hold,UPI
+S0171,C0419,19,21,1450.85,Yes,45,M,Chennai,Premium,499,Custom,13,6487,2024-08-13,2025-09-13,Cancelled,Net Banking
+S0172,C0293,49,15,2237.92,No,48,F,Chennai,Standard,1999,Annual,12,23988,2024-12-20,2025-12-20,Expired,Net Banking
+S0173,C0149,22,57,2731.18,No,25,F,Mumbai,Basic,1499,Annual,12,17988,2025-02-14,2026-02-14,Cancelled,UPI
+S0174,C0278,30,73,1739.19,Yes,23,Other,Lucknow,Standard,1499,Custom,18,26982,2025-06-25,2026-12-25,Active,Credit Card
+S0175,C0075,21,53,3313.33,No,27,F,Bengaluru,Basic,1999,Custom,18,35982,2025-02-19,2026-08-19,Active,Net Banking
+S0176,C0011,54,86,1912.17,No,55,Other,Lucknow,Standard,499,Custom,24,11976,2024-03-13,2026-03-13,Active,Net Banking
+S0177,C0435,20,16,1454.64,Yes,61,F,Ahmedabad,Standard,499,Quarterly,3,1497,2024-10-27,2025-01-27,Cancelled,Credit Card
+S0178,C0450,16,31,4514.45,No,63,M,Ahmedabad,Basic,1999,Quarterly,3,5997,2024-03-07,2024-06-07,Active,Debit Card
+S0179,C0004,31,59,2665.99,Yes,54,Other,Chennai,Premium,2499,Monthly,1,2499,2023-12-04,2024-01-04,Active,Debit Card
+S0180,C0236,26,48,3418.31,Yes,29,M,Bengaluru,Standard,499,Annual,12,5988,2025-06-15,2026-06-15,Cancelled,Net Banking
+S0181,C0211,8,23,4989.09,Yes,37,F,Chennai,Standard,499,Monthly,1,499,2025-06-17,2025-07-17,Expired,UPI
+S0182,C0487,58,119,3886.33,Yes,49,Other,Delhi,Standard,999,Quarterly,3,2997,2023-10-17,2024-01-17,Active,UPI
+S0183,C0439,18,30,1642.73,Yes,36,Other,Jaipur,Premium,1999,Custom,13,25987,2024-04-24,2025-05-24,Cancelled,Debit Card
+S0184,C0149,42,9,776.62,Yes,21,F,Bengaluru,Standard,499,Custom,13,6487,2023-12-05,2025-01-05,Cancelled,Debit Card
+S0185,C0046,21,62,3853.64,Yes,18,Other,Pune,Premium,499,Custom,12,5988,2024-08-15,2025-08-15,Expired,Net Banking
+S0186,C0320,6,2,3876.42,Yes,22,M,Lucknow,Premium,1499,Annual,12,17988,2024-01-19,2025-01-19,Expired,Debit Card
+S0187,C0421,7,2,1802.12,Yes,56,F,Chennai,Basic,1999,Monthly,1,1999,2024-09-11,2024-10-11,On Hold,Credit Card
+S0188,C0492,9,10,1747.37,No,42,M,Chennai,Basic,999,Custom,4,3996,2024-12-30,2025-04-30,On Hold,Credit Card
+S0189,C0377,22,23,1834.49,No,44,F,Pune,Basic,1999,Quarterly,3,5997,2025-07-07,2025-10-07,Active,Net Banking
+S0190,C0407,9,7,3731.83,No,52,F,Bengaluru,Standard,499,Monthly,1,499,2025-03-27,2025-04-27,Active,Debit Card
+S0191,C0452,19,50,4095.71,No,27,M,Lucknow,Standard,1999,Monthly,1,1999,2025-07-17,2025-08-17,Expired,Credit Card
+S0192,C0067,41,118,919.98,Yes,65,F,Hyderabad,Standard,1499,Custom,21,31479,2024-05-19,2026-02-19,Expired,Credit Card
+S0193,C0381,56,20,2693.91,No,44,Other,Hyderabad,Premium,1999,Monthly,1,1999,2025-04-15,2025-05-15,Expired,Debit Card
+S0194,C0069,33,71,868.15,No,49,Other,Mumbai,Basic,1499,Annual,12,17988,2025-01-27,2026-01-27,Cancelled,Net Banking
+S0195,C0190,52,129,2741.87,Yes,39,M,Delhi,Standard,1499,Custom,15,22485,2024-11-08,2026-02-08,Cancelled,Credit Card
+S0196,C0355,21,2,2603.09,Yes,33,M,Delhi,Premium,1499,Monthly,1,1499,2025-05-15,2025-06-15,Active,Debit Card
+S0197,C0406,59,120,1840.61,Yes,55,F,Hyderabad,Standard,1999,Annual,12,23988,2025-04-02,2026-04-02,Active,Net Banking
+S0198,C0228,5,3,3201.22,No,53,M,Pune,Basic,999,Custom,14,13986,2024-09-19,2025-11-19,On Hold,UPI
+S0199,C0162,40,48,784.71,No,28,M,Mumbai,Basic,2499,Custom,16,39984,2023-09-01,2025-01-01,On Hold,UPI
+S0200,C0256,55,64,1759.61,Yes,37,F,Hyderabad,Basic,499,Quarterly,3,1497,2025-03-16,2025-06-16,On Hold,Credit Card
+S0201,C0022,28,73,3164.28,Yes,49,F,Pune,Basic,499,Annual,12,5988,2023-12-20,2024-12-20,Cancelled,Debit Card
+S0202,C0141,3,3,2109.88,No,43,Other,Delhi,Standard,2499,Monthly,1,2499,2024-03-03,2024-04-03,Active,Net Banking
+S0203,C0252,30,23,2900.8,No,23,Other,Bengaluru,Basic,999,Monthly,1,999,2023-11-19,2023-12-19,Expired,Debit Card
+S0204,C0178,22,48,2068.07,Yes,56,F,Delhi,Basic,999,Quarterly,3,2997,2023-12-25,2024-03-25,On Hold,Credit Card
+S0205,C0136,31,25,3555.79,Yes,38,Other,Pune,Basic,1499,Quarterly,3,4497,2025-03-30,2025-06-30,Cancelled,Credit Card
+S0206,C0243,24,6,1905.77,Yes,65,Other,Ahmedabad,Standard,999,Custom,13,12987,2023-12-28,2025-01-28,Active,Net Banking
+S0207,C0216,37,96,1289.26,No,44,F,Mumbai,Basic,499,Annual,12,5988,2023-08-31,2024-08-31,Expired,Net Banking
+S0208,C0367,51,102,4097.41,Yes,55,Other,Jaipur,Basic,1499,Quarterly,3,4497,2024-05-22,2024-08-22,Expired,Debit Card
+S0209,C0378,40,87,3138.96,No,46,Other,Mumbai,Standard,1999,Monthly,1,1999,2023-11-26,2023-12-26,Active,Credit Card
+S0210,C0471,28,21,4707.54,Yes,18,M,Bengaluru,Basic,1999,Quarterly,3,5997,2025-01-16,2025-04-16,Active,Net Banking
+S0211,C0420,23,57,2994.59,No,42,Other,Chennai,Basic,2499,Quarterly,3,7497,2024-08-08,2024-11-08,Expired,Net Banking
+S0212,C0384,51,128,3228.81,Yes,31,Other,Mumbai,Basic,999,Monthly,1,999,2024-08-06,2024-09-06,Active,Credit Card
+S0213,C0138,37,36,1317.3,No,61,M,Delhi,Premium,1999,Monthly,1,1999,2024-04-30,2024-05-30,On Hold,UPI
+S0214,C0049,7,9,3521.07,No,60,Other,Bengaluru,Basic,1999,Custom,13,25987,2024-10-22,2025-11-22,Expired,Credit Card
+S0215,C0454,3,7,2332.82,No,38,Other,Chennai,Premium,1499,Monthly,1,1499,2024-08-11,2024-09-11,Expired,Net Banking
+S0216,C0488,57,7,1667.88,No,29,M,Pune,Standard,1499,Annual,12,17988,2023-08-12,2024-08-12,Cancelled,UPI
+S0217,C0471,60,132,3137.36,Yes,50,F,Lucknow,Basic,2499,Annual,12,29988,2024-04-21,2025-04-21,Cancelled,UPI
+S0218,C0299,54,152,1122.3,Yes,18,Other,Ahmedabad,Basic,1999,Quarterly,3,5997,2023-08-25,2023-11-25,Active,Net Banking
+S0219,C0213,18,14,2430.23,Yes,59,Other,Chennai,Standard,999,Monthly,1,999,2023-12-08,2024-01-08,Active,Net Banking
+S0220,C0174,2,5,2188.0,Yes,59,F,Lucknow,Basic,1999,Annual,12,23988,2024-03-10,2025-03-10,Cancelled,Debit Card
+S0221,C0214,59,76,2913.33,No,28,Other,Lucknow,Basic,1999,Quarterly,3,5997,2025-07-26,2025-10-26,Cancelled,UPI
+S0222,C0159,41,42,2704.95,Yes,21,Other,Kolkata,Basic,999,Monthly,1,999,2025-04-01,2025-05-01,Active,Credit Card
+S0223,C0192,25,14,3720.37,No,18,M,Mumbai,Basic,1999,Quarterly,3,5997,2025-05-24,2025-08-24,Expired,Debit Card
+S0224,C0265,53,105,4347.05,Yes,50,M,Mumbai,Standard,499,Custom,1,499,2024-03-13,2024-04-13,Expired,Debit Card
+S0225,C0394,17,40,2964.52,Yes,48,M,Hyderabad,Basic,1999,Monthly,1,1999,2025-01-31,2025-02-28,Active,Net Banking
+S0226,C0270,16,3,3506.25,No,34,M,Hyderabad,Premium,499,Annual,12,5988,2024-12-20,2025-12-20,Active,Debit Card
+S0227,C0171,6,15,1126.78,No,51,Other,Hyderabad,Premium,999,Monthly,1,999,2025-03-30,2025-04-30,Active,UPI
+S0228,C0097,54,34,3446.13,Yes,45,Other,Ahmedabad,Premium,499,Annual,12,5988,2025-07-04,2026-07-04,Expired,Debit Card
+S0229,C0275,56,19,1553.98,Yes,61,Other,Chennai,Standard,1999,Monthly,1,1999,2024-03-10,2024-04-10,Cancelled,Credit Card
+S0230,C0266,47,25,4415.41,No,60,F,Hyderabad,Premium,2499,Annual,12,29988,2024-09-16,2025-09-16,Expired,Credit Card
+S0231,C0169,40,14,2664.7,No,53,Other,Ahmedabad,Premium,1499,Annual,12,17988,2025-02-16,2026-02-16,Active,Credit Card
+S0232,C0064,22,54,3953.91,Yes,63,M,Delhi,Standard,999,Quarterly,3,2997,2024-05-09,2024-08-09,Cancelled,Net Banking
+S0233,C0176,59,61,4106.14,No,52,F,Mumbai,Basic,499,Quarterly,3,1497,2025-01-19,2025-04-19,Expired,Net Banking
+S0234,C0422,1,2,3245.79,Yes,63,F,Kolkata,Basic,1999,Annual,12,23988,2025-04-04,2026-04-04,Cancelled,Credit Card
+S0235,C0239,2,5,980.16,Yes,63,M,Lucknow,Basic,1999,Custom,10,19990,2024-04-16,2025-02-16,Active,Net Banking
+S0236,C0454,37,64,4192.08,Yes,35,Other,Jaipur,Standard,499,Monthly,1,499,2024-05-23,2024-06-23,Cancelled,Net Banking
+S0237,C0340,37,45,1655.06,No,57,M,Mumbai,Basic,2499,Quarterly,3,7497,2025-01-17,2025-04-17,Expired,Net Banking
+S0238,C0359,51,41,1225.0,No,40,M,Jaipur,Premium,2499,Quarterly,3,7497,2023-12-10,2024-03-10,Active,Net Banking
+S0239,C0335,46,115,2559.28,Yes,32,M,Kolkata,Basic,2499,Annual,12,29988,2024-08-06,2025-08-06,Active,Debit Card
+S0240,C0186,34,37,3759.81,No,54,Other,Hyderabad,Standard,999,Custom,11,10989,2023-12-20,2024-11-20,On Hold,Net Banking
+S0241,C0144,2,5,3160.18,No,41,M,Lucknow,Standard,2499,Annual,12,29988,2023-11-06,2024-11-06,Active,UPI
+S0242,C0129,51,56,4362.73,Yes,56,M,Pune,Standard,2499,Annual,12,29988,2025-01-19,2026-01-19,On Hold,UPI
+S0243,C0219,31,26,1566.21,No,34,M,Kolkata,Premium,499,Quarterly,3,1497,2024-03-05,2024-06-05,Active,Net Banking
+S0244,C0418,23,29,3180.82,Yes,25,F,Chennai,Standard,2499,Monthly,1,2499,2025-01-22,2025-02-22,Cancelled,Credit Card
+S0245,C0293,34,36,3439.05,No,49,F,Bengaluru,Basic,2499,Annual,12,29988,2024-11-27,2025-11-27,On Hold,Credit Card
+S0246,C0281,50,79,1320.62,Yes,28,Other,Hyderabad,Standard,2499,Monthly,1,2499,2025-02-25,2025-03-25,Active,Credit Card
+S0247,C0268,1,1,1340.62,Yes,54,M,Jaipur,Standard,999,Quarterly,3,2997,2024-07-14,2024-10-14,Active,Credit Card
+S0248,C0401,36,103,3953.86,Yes,59,F,Ahmedabad,Standard,2499,Quarterly,3,7497,2024-04-09,2024-07-09,On Hold,Debit Card
+S0249,C0489,40,23,3326.57,No,20,F,Lucknow,Premium,1999,Quarterly,3,5997,2025-07-30,2025-10-30,Active,Debit Card
+S0250,C0257,59,124,1523.11,Yes,26,F,Pune,Premium,1499,Quarterly,3,4497,2023-09-25,2023-12-25,On Hold,Debit Card
+S0251,C0189,47,43,2695.77,Yes,28,M,Delhi,Standard,2499,Monthly,1,2499,2024-08-03,2024-09-03,Active,UPI
+S0252,C0073,5,3,1971.72,No,65,M,Hyderabad,Premium,1499,Annual,12,17988,2024-10-03,2025-10-03,Cancelled,Net Banking
+S0253,C0169,49,114,2819.39,No,65,M,Ahmedabad,Premium,1499,Monthly,1,1499,2024-03-28,2024-04-28,Cancelled,Debit Card
+S0254,C0014,1,1,1584.53,Yes,20,F,Hyderabad,Basic,2499,Quarterly,3,7497,2024-11-25,2025-02-25,Active,Debit Card
+S0255,C0123,30,31,1248.41,No,47,M,Kolkata,Standard,1499,Monthly,1,1499,2025-02-19,2025-03-19,On Hold,Debit Card
+S0256,C0158,54,67,872.11,Yes,62,Other,Mumbai,Standard,1499,Quarterly,3,4497,2024-02-20,2024-05-20,Cancelled,Debit Card
+S0257,C0123,52,21,1488.29,Yes,26,Other,Jaipur,Standard,1499,Monthly,1,1499,2023-09-03,2023-10-03,Active,UPI
+S0258,C0099,40,26,2351.11,Yes,64,F,Bengaluru,Premium,2499,Monthly,1,2499,2025-05-20,2025-06-20,On Hold,Debit Card
+S0259,C0475,51,85,1210.68,No,18,F,Pune,Premium,499,Custom,1,499,2024-04-21,2024-05-21,Expired,Net Banking
+S0260,C0254,48,30,3329.94,No,54,Other,Lucknow,Standard,1499,Quarterly,3,4497,2024-06-15,2024-09-15,On Hold,UPI
+S0261,C0126,10,5,1525.4,Yes,58,Other,Chennai,Premium,999,Monthly,1,999,2025-02-21,2025-03-21,Expired,Net Banking
+S0262,C0127,49,137,505.05,No,44,Other,Jaipur,Basic,1999,Monthly,1,1999,2024-07-01,2024-08-01,Active,Net Banking
+S0263,C0334,1,2,2624.89,No,25,Other,Hyderabad,Basic,2499,Monthly,1,2499,2024-02-29,2024-03-29,Expired,Net Banking
+S0264,C0328,33,8,2905.11,Yes,48,F,Mumbai,Basic,1999,Monthly,1,1999,2024-03-09,2024-04-09,On Hold,Debit Card
+S0265,C0447,7,1,4939.4,Yes,42,F,Mumbai,Basic,499,Custom,15,7485,2024-11-22,2026-02-22,Cancelled,UPI
+S0266,C0082,30,32,3240.41,No,47,F,Delhi,Basic,1999,Quarterly,3,5997,2025-07-11,2025-10-11,Expired,Debit Card
+S0267,C0019,48,105,2860.8,Yes,62,F,Jaipur,Standard,499,Quarterly,3,1497,2025-08-06,2025-11-06,On Hold,Net Banking
+S0268,C0430,26,65,4591.65,Yes,32,M,Mumbai,Standard,1999,Quarterly,3,5997,2024-05-15,2024-08-15,Cancelled,Debit Card
+S0269,C0429,37,77,2668.85,No,54,F,Ahmedabad,Standard,2499,Monthly,1,2499,2024-08-28,2024-09-28,Expired,UPI
+S0270,C0101,45,78,1376.89,Yes,46,F,Mumbai,Premium,2499,Quarterly,3,7497,2025-06-03,2025-09-03,On Hold,UPI
+S0271,C0303,27,48,3330.24,Yes,24,M,Jaipur,Premium,999,Custom,17,16983,2025-07-03,2026-12-03,Cancelled,Net Banking
+S0272,C0099,57,116,4477.96,No,37,Other,Mumbai,Premium,999,Monthly,1,999,2025-01-20,2025-02-20,Expired,UPI
+S0273,C0201,46,30,3081.66,No,20,Other,Pune,Standard,499,Quarterly,3,1497,2023-11-01,2024-02-01,Expired,Credit Card
+S0274,C0233,59,110,3500.18,No,48,Other,Bengaluru,Premium,2499,Custom,11,27489,2023-09-13,2024-08-13,On Hold,UPI
+S0275,C0189,16,1,3303.7,No,40,M,Pune,Premium,999,Monthly,1,999,2023-08-12,2023-09-12,On Hold,UPI
+S0276,C0458,48,6,4286.36,No,30,Other,Mumbai,Standard,499,Custom,1,499,2024-04-12,2024-05-12,Cancelled,Net Banking
+S0277,C0068,39,99,4586.96,No,54,F,Ahmedabad,Premium,1999,Annual,12,23988,2024-08-25,2025-08-25,On Hold,Net Banking
+S0278,C0399,53,56,1197.65,Yes,61,Other,Ahmedabad,Standard,2499,Monthly,1,2499,2024-09-09,2024-10-09,Cancelled,UPI
+S0279,C0044,40,1,4689.78,No,55,Other,Bengaluru,Basic,2499,Monthly,1,2499,2025-03-10,2025-04-10,Cancelled,UPI
+S0280,C0214,6,12,4504.59,Yes,43,F,Chennai,Standard,2499,Custom,1,2499,2025-08-01,2025-09-01,On Hold,Net Banking
+S0281,C0149,20,44,858.05,No,39,M,Kolkata,Premium,1999,Quarterly,3,5997,2024-12-27,2025-03-27,On Hold,UPI
+S0282,C0254,26,33,4078.33,No,57,F,Delhi,Basic,499,Custom,8,3992,2024-07-18,2025-03-18,Expired,UPI
+S0283,C0477,59,73,1499.35,No,59,F,Jaipur,Basic,1999,Custom,2,3998,2024-01-11,2024-03-11,Active,Net Banking
+S0284,C0307,18,13,2266.0,No,25,Other,Jaipur,Premium,1999,Custom,12,23988,2025-03-25,2026-03-25,On Hold,Debit Card
+S0285,C0247,46,122,1901.89,No,24,F,Ahmedabad,Standard,499,Custom,19,9481,2024-02-18,2025-09-18,Expired,UPI
+S0286,C0331,43,87,4834.94,Yes,33,F,Chennai,Premium,1499,Annual,12,17988,2024-08-13,2025-08-13,Active,Debit Card
+S0287,C0168,33,47,4700.7,Yes,52,M,Jaipur,Standard,499,Quarterly,3,1497,2025-03-08,2025-06-08,Expired,Credit Card
+S0288,C0148,15,29,4334.72,Yes,27,Other,Pune,Basic,999,Monthly,1,999,2025-01-15,2025-02-15,On Hold,Debit Card
+S0289,C0051,19,31,4144.1,No,30,M,Lucknow,Basic,1499,Quarterly,3,4497,2025-04-12,2025-07-12,Cancelled,Credit Card
+S0290,C0388,46,119,1872.73,Yes,31,F,Chennai,Standard,499,Custom,17,8483,2024-02-06,2025-07-06,Active,Credit Card
+S0291,C0448,55,83,1535.22,Yes,27,M,Ahmedabad,Standard,1999,Annual,12,23988,2024-11-10,2025-11-10,Cancelled,Debit Card
+S0292,C0365,60,84,4443.92,Yes,32,F,Bengaluru,Standard,1499,Quarterly,3,4497,2024-05-28,2024-08-28,On Hold,Net Banking
+S0293,C0231,40,86,4922.2,No,24,M,Mumbai,Standard,2499,Monthly,1,2499,2024-11-03,2024-12-03,On Hold,Net Banking
+S0294,C0329,52,39,1048.65,No,23,Other,Jaipur,Basic,2499,Custom,5,12495,2024-11-28,2025-04-28,Active,Credit Card
+S0295,C0307,49,66,4414.52,No,38,F,Pune,Basic,1499,Annual,12,17988,2024-02-25,2025-02-25,Cancelled,Credit Card
+S0296,C0419,48,12,4309.2,Yes,35,M,Pune,Premium,2499,Custom,3,7497,2023-10-03,2024-01-03,Expired,Debit Card
+S0297,C0013,52,79,4384.44,Yes,61,Other,Bengaluru,Basic,2499,Monthly,1,2499,2023-11-07,2023-12-07,Expired,Debit Card
+S0298,C0232,22,22,2546.88,No,36,M,Jaipur,Premium,499,Custom,15,7485,2024-10-20,2026-01-20,On Hold,Debit Card
+S0299,C0467,44,9,3758.82,No,45,Other,Lucknow,Premium,1999,Quarterly,3,5997,2024-12-17,2025-03-17,On Hold,UPI
+S0300,C0263,8,3,742.09,Yes,57,M,Jaipur,Standard,999,Custom,6,5994,2024-09-03,2025-03-03,Active,Credit Card
+S0301,C0422,29,70,1252.02,No,38,M,Pune,Basic,999,Annual,12,11988,2024-05-06,2025-05-06,On Hold,Debit Card
+S0302,C0379,21,22,3610.55,No,26,M,Jaipur,Basic,2499,Quarterly,3,7497,2024-08-29,2024-11-29,Active,Debit Card
+S0303,C0338,36,46,1152.33,No,46,F,Ahmedabad,Standard,499,Annual,12,5988,2024-12-15,2025-12-15,Cancelled,UPI
+S0304,C0464,55,48,1505.73,Yes,39,F,Lucknow,Premium,499,Custom,20,9980,2023-09-13,2025-05-13,On Hold,UPI
+S0305,C0283,47,46,1417.73,No,32,Other,Kolkata,Basic,1999,Custom,20,39980,2025-06-28,2027-02-28,Cancelled,Debit Card
+S0306,C0268,24,54,841.59,Yes,42,M,Mumbai,Standard,1999,Quarterly,3,5997,2024-06-25,2024-09-25,On Hold,Credit Card
+S0307,C0121,28,45,3756.95,Yes,21,F,Chennai,Premium,999,Quarterly,3,2997,2024-05-23,2024-08-23,Cancelled,Net Banking
+S0308,C0215,47,73,2748.57,No,30,M,Pune,Premium,2499,Custom,12,29988,2025-01-20,2026-01-20,Cancelled,Net Banking
+S0309,C0182,58,20,862.53,Yes,53,F,Lucknow,Premium,999,Monthly,1,999,2025-07-13,2025-08-13,Expired,Net Banking
+S0310,C0200,7,10,2922.07,No,55,F,Delhi,Standard,1499,Custom,18,26982,2024-05-16,2025-11-16,Expired,Net Banking
+S0311,C0051,23,52,4484.93,Yes,30,M,Pune,Premium,1999,Monthly,1,1999,2024-09-04,2024-10-04,On Hold,UPI
+S0312,C0215,2,3,592.36,Yes,58,M,Kolkata,Standard,999,Annual,12,11988,2024-07-22,2025-07-22,On Hold,UPI
+S0313,C0054,5,13,3279.45,Yes,44,Other,Bengaluru,Basic,499,Annual,12,5988,2025-01-11,2026-01-11,Active,Net Banking
+S0314,C0285,27,33,1097.54,No,55,M,Lucknow,Standard,1499,Quarterly,3,4497,2024-02-17,2024-05-17,Active,Credit Card
+S0315,C0428,59,69,972.03,No,36,Other,Mumbai,Basic,1999,Quarterly,3,5997,2024-10-10,2025-01-10,On Hold,UPI
+S0316,C0033,26,23,1432.02,Yes,30,F,Pune,Standard,499,Custom,9,4491,2024-08-23,2025-05-23,Expired,UPI
+S0317,C0482,17,7,921.6,No,56,Other,Mumbai,Standard,1499,Annual,12,17988,2025-04-24,2026-04-24,Active,Net Banking
+S0318,C0055,11,21,3582.37,Yes,37,M,Mumbai,Basic,999,Monthly,1,999,2024-05-26,2024-06-26,On Hold,Net Banking
+S0319,C0143,8,3,2668.58,No,52,F,Jaipur,Basic,999,Quarterly,3,2997,2024-11-01,2025-02-01,Active,UPI
+S0320,C0284,38,88,1031.8,No,39,M,Pune,Premium,2499,Quarterly,3,7497,2024-03-20,2024-06-20,On Hold,Debit Card
+S0321,C0380,9,11,4254.01,Yes,42,M,Pune,Premium,1499,Annual,12,17988,2025-04-02,2026-04-02,On Hold,Credit Card
+S0322,C0403,3,7,1169.2,No,49,F,Ahmedabad,Basic,999,Quarterly,3,2997,2024-12-06,2025-03-06,Active,Debit Card
+S0323,C0051,3,3,649.68,Yes,40,F,Ahmedabad,Basic,2499,Custom,8,19992,2024-03-27,2024-11-27,On Hold,Debit Card
+S0324,C0473,50,77,1654.49,No,47,Other,Chennai,Standard,1999,Quarterly,3,5997,2025-03-05,2025-06-05,Cancelled,Net Banking
+S0325,C0118,29,30,2186.61,No,60,Other,Jaipur,Basic,1999,Quarterly,3,5997,2025-06-07,2025-09-07,Active,Net Banking
+S0326,C0264,54,24,3094.37,No,39,M,Bengaluru,Premium,1999,Quarterly,3,5997,2025-03-17,2025-06-17,Active,Debit Card
+S0327,C0022,42,30,4839.29,No,32,M,Mumbai,Premium,1499,Quarterly,3,4497,2023-09-12,2023-12-12,On Hold,Credit Card
+S0328,C0106,60,114,2650.47,Yes,54,F,Mumbai,Standard,999,Monthly,1,999,2024-11-20,2024-12-20,Cancelled,Debit Card
+S0329,C0104,46,83,2701.11,Yes,38,Other,Pune,Standard,2499,Custom,8,19992,2024-07-03,2025-03-03,Cancelled,Credit Card
+S0330,C0375,45,48,2977.18,Yes,50,Other,Ahmedabad,Premium,999,Annual,12,11988,2025-04-23,2026-04-23,Active,Debit Card
+S0331,C0392,41,24,4451.87,No,41,F,Mumbai,Premium,999,Annual,12,11988,2023-11-22,2024-11-22,Cancelled,Credit Card
+S0332,C0281,2,3,1503.52,No,43,M,Hyderabad,Standard,999,Quarterly,3,2997,2024-11-30,2025-02-28,On Hold,Net Banking
+S0333,C0078,26,31,3624.1,No,26,F,Hyderabad,Basic,499,Annual,12,5988,2025-07-27,2026-07-27,On Hold,UPI
+S0334,C0042,50,7,2480.94,Yes,53,Other,Jaipur,Standard,2499,Monthly,1,2499,2024-07-14,2024-08-14,Active,UPI
+S0335,C0478,26,77,3676.01,Yes,54,M,Mumbai,Standard,2499,Annual,12,29988,2024-05-05,2025-05-05,Cancelled,Net Banking
+S0336,C0355,39,15,1572.88,Yes,32,M,Kolkata,Premium,999,Custom,3,2997,2024-05-30,2024-08-30,Active,Net Banking
+S0337,C0139,30,40,4399.48,Yes,36,F,Lucknow,Standard,1499,Custom,7,10493,2024-11-11,2025-06-11,Active,UPI
+S0338,C0181,57,146,2767.68,No,25,Other,Jaipur,Standard,1499,Monthly,1,1499,2024-09-10,2024-10-10,Expired,UPI
+S0339,C0267,15,22,3741.47,No,33,Other,Jaipur,Premium,499,Annual,12,5988,2025-04-24,2026-04-24,Active,Net Banking
+S0340,C0441,6,11,4371.15,No,29,Other,Hyderabad,Basic,2499,Annual,12,29988,2025-06-15,2026-06-15,Expired,Net Banking
+S0341,C0234,46,31,792.16,Yes,53,Other,Lucknow,Premium,499,Custom,13,6487,2023-12-25,2025-01-25,Cancelled,Debit Card
+S0342,C0223,23,67,655.37,Yes,54,Other,Lucknow,Basic,999,Annual,12,11988,2023-11-07,2024-11-07,Expired,UPI
+S0343,C0481,34,47,1894.43,Yes,56,Other,Mumbai,Standard,2499,Monthly,1,2499,2024-04-18,2024-05-18,Cancelled,Net Banking
+S0344,C0037,3,4,4792.32,Yes,61,Other,Pune,Basic,1999,Custom,6,11994,2025-04-14,2025-10-14,Active,Credit Card
+S0345,C0308,3,5,4007.37,No,54,F,Chennai,Standard,499,Custom,11,5489,2024-08-22,2025-07-22,On Hold,Credit Card
+S0346,C0321,25,29,2276.75,No,43,Other,Pune,Standard,2499,Quarterly,3,7497,2025-08-05,2025-11-05,Expired,UPI
+S0347,C0144,42,55,2420.27,No,36,Other,Lucknow,Basic,2499,Monthly,1,2499,2024-05-06,2024-06-06,Cancelled,Debit Card
+S0348,C0195,32,88,3278.79,No,35,F,Mumbai,Standard,1499,Quarterly,3,4497,2024-06-11,2024-09-11,Active,Credit Card
+S0349,C0363,52,61,576.28,No,18,M,Jaipur,Standard,499,Monthly,1,499,2023-09-06,2023-10-06,Cancelled,UPI
+S0350,C0455,43,4,696.41,Yes,30,M,Chennai,Basic,2499,Custom,1,2499,2023-10-24,2023-11-24,Cancelled,Debit Card
+S0351,C0393,57,22,850.29,No,57,F,Ahmedabad,Standard,1499,Annual,12,17988,2024-04-20,2025-04-20,Expired,Debit Card
+S0352,C0339,51,106,4016.06,Yes,29,Other,Mumbai,Premium,2499,Monthly,1,2499,2025-03-16,2025-04-16,Expired,Debit Card
+S0353,C0395,45,41,4870.23,Yes,47,F,Lucknow,Basic,499,Annual,12,5988,2023-11-13,2024-11-13,On Hold,Debit Card
+S0354,C0168,33,27,1527.46,Yes,31,M,Ahmedabad,Standard,1999,Monthly,1,1999,2025-02-20,2025-03-20,Expired,Net Banking
+S0355,C0116,38,109,1727.68,No,62,F,Ahmedabad,Standard,1499,Annual,12,17988,2024-01-07,2025-01-07,Cancelled,Net Banking
+S0356,C0217,32,58,1942.66,Yes,18,M,Bengaluru,Standard,999,Quarterly,3,2997,2024-11-30,2025-02-28,Active,Credit Card
+S0357,C0483,1,2,1756.05,No,53,F,Ahmedabad,Standard,999,Annual,12,11988,2023-10-27,2024-10-27,Cancelled,UPI
+S0358,C0059,7,6,1009.81,Yes,61,Other,Ahmedabad,Basic,2499,Quarterly,3,7497,2025-03-04,2025-06-04,Expired,UPI
+S0359,C0444,12,4,4113.64,No,41,M,Hyderabad,Basic,1499,Custom,1,1499,2025-05-11,2025-06-11,On Hold,Credit Card
+S0360,C0184,7,15,3401.83,No,52,Other,Pune,Premium,1999,Monthly,1,1999,2025-01-09,2025-02-09,Cancelled,Debit Card
+S0361,C0126,41,97,2805.31,No,28,F,Jaipur,Standard,999,Annual,12,11988,2024-03-29,2025-03-29,Expired,Debit Card
+S0362,C0449,36,66,2818.61,No,31,Other,Kolkata,Standard,2499,Quarterly,3,7497,2025-04-28,2025-07-28,Active,Credit Card
+S0363,C0396,50,16,1570.37,No,21,M,Chennai,Standard,2499,Monthly,1,2499,2023-09-25,2023-10-25,On Hold,UPI
+S0364,C0415,58,31,4591.72,Yes,34,Other,Kolkata,Premium,1999,Custom,1,1999,2023-09-13,2023-10-13,Active,Credit Card
+S0365,C0178,37,64,3223.16,No,34,M,Pune,Basic,1999,Monthly,1,1999,2024-04-28,2024-05-28,Cancelled,UPI
+S0366,C0321,15,43,875.88,Yes,39,F,Jaipur,Standard,2499,Custom,4,9996,2024-03-23,2024-07-23,Expired,Credit Card
+S0367,C0231,25,51,3152.04,No,29,F,Hyderabad,Premium,999,Annual,12,11988,2024-07-23,2025-07-23,Expired,Credit Card
+S0368,C0059,23,4,2967.21,No,53,F,Lucknow,Standard,999,Annual,12,11988,2024-04-18,2025-04-18,Cancelled,Net Banking
+S0369,C0038,4,2,3625.87,No,37,Other,Bengaluru,Premium,499,Custom,1,499,2024-03-11,2024-04-11,Cancelled,UPI
+S0370,C0448,26,44,890.06,No,22,M,Chennai,Standard,499,Custom,19,9481,2023-10-18,2025-05-18,Cancelled,Net Banking
+S0371,C0427,17,14,1123.22,Yes,45,F,Jaipur,Standard,2499,Custom,1,2499,2023-09-22,2023-10-22,Active,Net Banking
+S0372,C0455,9,21,1646.38,Yes,39,Other,Hyderabad,Premium,499,Monthly,1,499,2024-04-01,2024-05-01,Cancelled,Net Banking
+S0373,C0344,47,67,3879.64,No,64,M,Pune,Basic,1499,Monthly,1,1499,2023-09-20,2023-10-20,On Hold,Credit Card
+S0374,C0497,38,25,3233.48,Yes,31,F,Kolkata,Premium,1999,Quarterly,3,5997,2024-09-28,2024-12-28,Expired,Debit Card
+S0375,C0141,29,40,1939.86,Yes,28,F,Delhi,Premium,499,Quarterly,3,1497,2023-09-10,2023-12-10,On Hold,UPI
+S0376,C0028,50,66,1348.05,Yes,26,Other,Lucknow,Premium,1499,Quarterly,3,4497,2023-10-08,2024-01-08,Cancelled,Credit Card
+S0377,C0025,59,56,4545.28,No,59,F,Ahmedabad,Standard,1999,Monthly,1,1999,2025-02-25,2025-03-25,Cancelled,Net Banking
+S0378,C0324,15,37,4385.1,Yes,27,Other,Mumbai,Standard,499,Monthly,1,499,2024-12-07,2025-01-07,Expired,UPI
+S0379,C0238,43,23,1086.44,No,36,M,Mumbai,Premium,1999,Quarterly,3,5997,2024-10-15,2025-01-15,Cancelled,Net Banking
+S0380,C0284,17,1,2647.81,Yes,25,Other,Mumbai,Basic,2499,Annual,12,29988,2024-04-10,2025-04-10,On Hold,Net Banking
+S0381,C0096,6,18,3574.89,Yes,60,Other,Hyderabad,Basic,1499,Custom,1,1499,2025-07-11,2025-08-11,Expired,Debit Card
+S0382,C0231,25,51,4901.06,Yes,38,M,Kolkata,Standard,499,Quarterly,3,1497,2024-06-14,2024-09-14,Cancelled,Debit Card
+S0383,C0069,46,9,1040.44,Yes,41,Other,Chennai,Premium,1499,Custom,2,2998,2025-04-04,2025-06-04,On Hold,UPI
+S0384,C0422,27,10,1920.26,Yes,29,M,Chennai,Basic,1999,Annual,12,23988,2024-05-29,2025-05-29,Expired,Net Banking
+S0385,C0330,34,76,807.08,Yes,23,M,Bengaluru,Premium,499,Quarterly,3,1497,2023-11-03,2024-02-03,Cancelled,Debit Card
+S0386,C0058,40,109,2641.82,No,28,M,Bengaluru,Basic,499,Quarterly,3,1497,2025-02-19,2025-05-19,On Hold,Debit Card
+S0387,C0389,42,119,3015.34,Yes,50,M,Jaipur,Basic,1499,Annual,12,17988,2024-02-08,2025-02-08,On Hold,Net Banking
+S0388,C0464,43,106,3455.95,Yes,49,F,Chennai,Basic,999,Custom,8,7992,2024-10-21,2025-06-21,On Hold,UPI
+S0389,C0454,37,69,3384.47,Yes,61,Other,Delhi,Basic,999,Quarterly,3,2997,2024-08-26,2024-11-26,Active,UPI
+S0390,C0425,2,5,1529.51,No,56,M,Jaipur,Standard,1499,Quarterly,3,4497,2025-06-06,2025-09-06,On Hold,Credit Card
+S0391,C0023,10,23,1764.04,Yes,27,Other,Delhi,Basic,1999,Quarterly,3,5997,2023-12-12,2024-03-12,On Hold,Credit Card
+S0392,C0194,29,44,3881.07,Yes,30,F,Mumbai,Standard,2499,Custom,16,39984,2025-02-25,2026-06-25,Expired,UPI
+S0393,C0132,46,61,1449.17,No,35,Other,Mumbai,Premium,1499,Custom,10,14990,2023-11-06,2024-09-06,On Hold,Credit Card
+S0394,C0386,17,1,4130.47,No,32,Other,Pune,Premium,499,Quarterly,3,1497,2024-01-15,2024-04-15,Active,Net Banking
+S0395,C0355,8,17,2797.33,Yes,60,Other,Kolkata,Standard,1499,Custom,3,4497,2024-06-13,2024-09-13,Expired,UPI
+S0396,C0337,31,27,2424.77,No,21,M,Ahmedabad,Standard,2499,Annual,12,29988,2023-11-16,2024-11-16,Expired,Debit Card
+S0397,C0437,9,16,873.07,Yes,60,Other,Delhi,Standard,2499,Annual,12,29988,2025-01-26,2026-01-26,Cancelled,Net Banking
+S0398,C0083,42,21,3369.26,Yes,53,Other,Delhi,Basic,499,Quarterly,3,1497,2024-02-08,2024-05-08,Cancelled,UPI
+S0399,C0056,54,86,1206.14,Yes,43,F,Bengaluru,Standard,2499,Annual,12,29988,2024-11-12,2025-11-12,Expired,Net Banking
+S0400,C0417,39,93,4992.74,No,63,M,Ahmedabad,Basic,2499,Annual,12,29988,2025-02-04,2026-02-04,Active,UPI
+S0401,C0044,13,30,3319.86,Yes,40,M,Jaipur,Standard,999,Custom,24,23976,2023-11-19,2025-11-19,Active,Net Banking
+S0402,C0185,52,156,3027.25,Yes,58,Other,Chennai,Basic,499,Quarterly,3,1497,2025-01-05,2025-04-05,Expired,UPI
+S0403,C0365,44,85,1180.13,No,44,F,Lucknow,Standard,2499,Annual,12,29988,2024-09-03,2025-09-03,Expired,Credit Card
+S0404,C0009,9,21,3435.87,Yes,51,M,Hyderabad,Basic,1999,Annual,12,23988,2024-07-10,2025-07-10,Cancelled,Net Banking
+S0405,C0266,56,74,1279.05,No,33,M,Ahmedabad,Basic,1999,Monthly,1,1999,2024-06-10,2024-07-10,Active,UPI
+S0406,C0157,3,2,1280.17,No,39,Other,Hyderabad,Premium,999,Annual,12,11988,2023-09-26,2024-09-26,Active,Debit Card
+S0407,C0451,4,3,4674.08,Yes,23,Other,Kolkata,Premium,1999,Quarterly,3,5997,2024-08-26,2024-11-26,Expired,Credit Card
+S0408,C0334,56,67,1062.04,Yes,41,Other,Pune,Premium,999,Annual,12,11988,2025-01-17,2026-01-17,Expired,Debit Card
+S0409,C0065,21,60,1615.18,No,44,F,Jaipur,Premium,999,Annual,12,11988,2023-09-24,2024-09-24,Expired,Debit Card
+S0410,C0195,12,33,3126.74,No,35,F,Kolkata,Standard,1999,Quarterly,3,5997,2025-03-20,2025-06-20,On Hold,Credit Card
+S0411,C0274,32,80,4559.34,Yes,50,M,Hyderabad,Premium,1999,Custom,21,41979,2024-02-29,2025-11-29,Active,Debit Card
+S0412,C0300,15,32,4455.72,Yes,21,Other,Hyderabad,Basic,999,Annual,12,11988,2024-08-05,2025-08-05,On Hold,Net Banking
+S0413,C0133,17,27,4387.36,No,45,Other,Chennai,Premium,2499,Custom,5,12495,2023-12-22,2024-05-22,Active,UPI
+S0414,C0359,13,6,3702.86,Yes,27,Other,Lucknow,Premium,2499,Annual,12,29988,2024-07-03,2025-07-03,Expired,Debit Card
+S0415,C0335,40,81,541.68,No,50,Other,Pune,Premium,499,Annual,12,5988,2025-02-04,2026-02-04,On Hold,Credit Card
+S0416,C0443,44,22,2515.7,Yes,35,Other,Mumbai,Standard,1999,Monthly,1,1999,2024-08-30,2024-09-30,Expired,Credit Card
+S0417,C0350,51,8,4401.17,Yes,20,M,Bengaluru,Standard,1999,Quarterly,3,5997,2025-04-11,2025-07-11,Expired,Credit Card
+S0418,C0088,39,18,3061.66,No,25,Other,Chennai,Basic,499,Monthly,1,499,2025-05-19,2025-06-19,Expired,UPI
+S0419,C0028,42,91,1524.26,Yes,55,M,Bengaluru,Standard,999,Custom,2,1998,2024-11-21,2025-01-21,On Hold,UPI
+S0420,C0195,30,29,2816.26,Yes,60,Other,Hyderabad,Standard,1499,Quarterly,3,4497,2025-02-01,2025-05-01,Active,Debit Card
+S0421,C0416,9,1,2723.87,Yes,23,F,Delhi,Basic,499,Custom,16,7984,2024-05-14,2025-09-14,On Hold,Net Banking
+S0422,C0180,3,6,1285.84,No,60,F,Jaipur,Premium,999,Custom,3,2997,2023-08-27,2023-11-27,On Hold,Debit Card
+S0423,C0009,18,7,712.67,No,60,F,Delhi,Standard,1499,Custom,13,19487,2025-03-11,2026-04-11,Expired,UPI
+S0424,C0404,15,33,2168.99,No,61,F,Pune,Basic,499,Monthly,1,499,2023-12-30,2024-01-30,Expired,UPI
+S0425,C0067,58,151,970.13,Yes,39,F,Delhi,Premium,2499,Custom,8,19992,2024-08-17,2025-04-17,Active,UPI
+S0426,C0398,37,57,2229.9,No,42,M,Lucknow,Basic,999,Monthly,1,999,2024-07-14,2024-08-14,Cancelled,UPI
+S0427,C0228,47,14,903.15,No,48,F,Bengaluru,Standard,1999,Custom,9,17991,2024-10-23,2025-07-23,Expired,UPI
+S0428,C0218,42,49,4130.52,No,57,F,Jaipur,Basic,499,Monthly,1,499,2024-04-06,2024-05-06,Expired,Credit Card
+S0429,C0057,30,74,2159.36,No,47,Other,Bengaluru,Standard,499,Quarterly,3,1497,2024-09-12,2024-12-12,Cancelled,Debit Card
+S0430,C0095,60,95,3587.13,No,33,M,Chennai,Basic,1499,Custom,23,34477,2025-05-30,2027-04-30,Expired,Credit Card
+S0431,C0178,11,32,2413.72,No,42,M,Bengaluru,Standard,2499,Custom,3,7497,2024-12-28,2025-03-28,Active,Net Banking
+S0432,C0345,47,71,2480.89,No,58,F,Lucknow,Standard,1999,Quarterly,3,5997,2025-01-14,2025-04-14,On Hold,UPI
+S0433,C0471,37,99,4208.92,Yes,65,Other,Ahmedabad,Premium,2499,Custom,13,32487,2025-02-12,2026-03-12,Active,Net Banking
+S0434,C0118,11,27,2177.34,No,51,F,Mumbai,Basic,1999,Annual,12,23988,2025-04-16,2026-04-16,Cancelled,Net Banking
+S0435,C0288,7,18,1101.53,Yes,25,F,Jaipur,Basic,499,Quarterly,3,1497,2024-11-16,2025-02-16,Active,Credit Card
+S0436,C0152,5,7,1939.56,No,36,Other,Jaipur,Premium,2499,Monthly,1,2499,2024-10-26,2024-11-26,Active,Net Banking
+S0437,C0451,23,9,3012.48,No,26,F,Bengaluru,Premium,1999,Custom,13,25987,2025-01-16,2026-02-16,Cancelled,Debit Card
+S0438,C0390,38,106,819.74,No,55,F,Jaipur,Standard,499,Custom,6,2994,2025-03-18,2025-09-18,Expired,Debit Card
+S0439,C0491,42,108,4056.66,Yes,48,Other,Lucknow,Basic,1999,Annual,12,23988,2024-09-26,2025-09-26,Active,Debit Card
+S0440,C0273,52,45,1017.22,Yes,49,Other,Bengaluru,Basic,999,Custom,13,12987,2025-05-28,2026-06-28,On Hold,Debit Card
+S0441,C0106,19,12,4577.95,No,30,F,Bengaluru,Premium,999,Quarterly,3,2997,2024-11-12,2025-02-12,Active,Debit Card
+S0442,C0362,11,1,2739.95,No,58,F,Lucknow,Basic,999,Annual,12,11988,2023-11-21,2024-11-21,Active,Credit Card
+S0443,C0492,49,89,1651.73,Yes,60,F,Bengaluru,Standard,499,Monthly,1,499,2023-12-10,2024-01-10,Active,UPI
+S0444,C0192,11,14,782.96,No,59,M,Delhi,Basic,999,Annual,12,11988,2024-01-18,2025-01-18,Cancelled,UPI
+S0445,C0297,19,14,4874.81,Yes,28,F,Chennai,Basic,999,Custom,15,14985,2023-09-19,2024-12-19,Expired,Credit Card
+S0446,C0169,40,89,4872.48,Yes,37,M,Lucknow,Basic,499,Monthly,1,499,2023-09-13,2023-10-13,On Hold,Debit Card
+S0447,C0208,60,100,1483.02,No,45,M,Delhi,Basic,2499,Monthly,1,2499,2025-07-15,2025-08-15,Expired,UPI
+S0448,C0483,48,34,1682.61,No,32,Other,Bengaluru,Premium,2499,Annual,12,29988,2025-02-23,2026-02-23,Cancelled,Net Banking
+S0449,C0432,19,23,996.75,No,57,Other,Bengaluru,Basic,499,Custom,5,2495,2024-04-06,2024-09-06,On Hold,UPI
+S0450,C0085,38,9,2804.63,Yes,55,M,Chennai,Standard,2499,Quarterly,3,7497,2025-05-15,2025-08-15,Cancelled,Credit Card
+S0451,C0181,19,31,3361.24,Yes,32,F,Delhi,Standard,1999,Quarterly,3,5997,2023-12-25,2024-03-25,Expired,UPI
+S0452,C0390,47,10,3702.81,No,22,F,Pune,Standard,499,Quarterly,3,1497,2024-03-27,2024-06-27,On Hold,UPI
+S0453,C0380,27,74,1951.14,Yes,63,M,Pune,Basic,2499,Monthly,1,2499,2024-03-17,2024-04-17,Expired,Debit Card
+S0454,C0092,21,5,2335.08,No,47,M,Pune,Standard,499,Annual,12,5988,2023-08-18,2024-08-18,Expired,Net Banking
+S0455,C0198,20,50,1284.07,Yes,41,Other,Pune,Basic,999,Monthly,1,999,2025-05-05,2025-06-05,Active,Credit Card
+S0456,C0495,11,24,1539.86,Yes,58,F,Mumbai,Standard,1999,Quarterly,3,5997,2024-03-13,2024-06-13,Cancelled,Credit Card
+S0457,C0334,39,58,2365.82,Yes,32,Other,Lucknow,Premium,1999,Custom,21,41979,2024-10-04,2026-07-04,Active,Debit Card
+S0458,C0035,9,19,4089.99,Yes,47,Other,Mumbai,Basic,1499,Custom,7,10493,2024-03-08,2024-10-08,On Hold,Credit Card
+S0459,C0013,8,14,3684.62,No,25,Other,Chennai,Basic,499,Custom,19,9481,2023-12-04,2025-07-04,Expired,Debit Card
+S0460,C0223,39,19,2730.45,No,59,F,Lucknow,Standard,2499,Custom,20,49980,2025-01-14,2026-09-14,Expired,Debit Card
+S0461,C0352,14,15,1780.65,No,18,Other,Lucknow,Basic,499,Annual,12,5988,2023-11-11,2024-11-11,Active,Debit Card
+S0462,C0433,18,11,3777.79,No,24,M,Pune,Basic,1499,Annual,12,17988,2024-07-03,2025-07-03,Active,Credit Card
+S0463,C0109,36,76,2153.98,Yes,46,F,Jaipur,Basic,1999,Monthly,1,1999,2024-09-06,2024-10-06,Active,Credit Card
+S0464,C0172,4,10,3834.81,No,24,Other,Bengaluru,Premium,1999,Annual,12,23988,2024-12-26,2025-12-26,On Hold,Credit Card
+S0465,C0412,26,31,2607.94,No,31,M,Delhi,Standard,999,Custom,12,11988,2025-01-01,2026-01-01,Expired,Net Banking
+S0466,C0055,35,65,4359.32,No,46,F,Delhi,Standard,499,Monthly,1,499,2023-08-26,2023-09-26,Cancelled,Debit Card
+S0467,C0438,56,49,1281.47,Yes,18,Other,Jaipur,Standard,1499,Monthly,1,1499,2024-08-25,2024-09-25,On Hold,Credit Card
+S0468,C0282,18,24,4798.65,Yes,58,F,Hyderabad,Standard,1499,Monthly,1,1499,2025-07-11,2025-08-11,Cancelled,Net Banking
+S0469,C0418,13,13,901.87,Yes,32,F,Ahmedabad,Standard,499,Quarterly,3,1497,2025-02-26,2025-05-26,Expired,UPI
+S0470,C0099,8,18,3499.26,No,19,Other,Jaipur,Premium,1999,Custom,10,19990,2024-06-07,2025-04-07,On Hold,UPI
+S0471,C0479,9,27,2989.33,Yes,21,F,Lucknow,Basic,1499,Quarterly,3,4497,2025-03-14,2025-06-14,Cancelled,Debit Card
+S0472,C0335,32,28,3954.13,Yes,53,F,Delhi,Premium,499,Annual,12,5988,2024-11-06,2025-11-06,Expired,Net Banking
+S0473,C0063,10,30,3814.19,Yes,18,M,Lucknow,Standard,2499,Quarterly,3,7497,2024-12-03,2025-03-03,Expired,UPI
+S0474,C0322,31,77,4031.29,No,58,F,Lucknow,Premium,1499,Annual,12,17988,2024-09-02,2025-09-02,On Hold,Net Banking
+S0475,C0233,4,5,4810.28,Yes,19,M,Jaipur,Standard,499,Custom,2,998,2025-06-03,2025-08-03,On Hold,Net Banking
+S0476,C0021,3,2,2957.25,Yes,23,M,Mumbai,Premium,1499,Monthly,1,1499,2025-01-25,2025-02-25,On Hold,UPI
+S0477,C0346,38,35,1702.38,Yes,62,Other,Kolkata,Basic,2499,Monthly,1,2499,2024-12-25,2025-01-25,Cancelled,UPI
+S0478,C0117,14,8,2289.51,No,31,Other,Bengaluru,Standard,999,Quarterly,3,2997,2024-12-28,2025-03-28,On Hold,Credit Card
+S0479,C0007,15,29,3182.41,No,57,Other,Hyderabad,Basic,1499,Annual,12,17988,2025-06-28,2026-06-28,On Hold,UPI
+S0480,C0382,19,11,1561.42,Yes,37,Other,Mumbai,Basic,999,Annual,12,11988,2025-01-23,2026-01-23,Expired,UPI
+S0481,C0372,19,29,2507.96,No,44,Other,Bengaluru,Standard,499,Annual,12,5988,2024-04-18,2025-04-18,Cancelled,UPI
+S0482,C0130,43,124,3559.59,No,47,Other,Lucknow,Standard,1499,Quarterly,3,4497,2024-05-30,2024-08-30,Active,Debit Card
+S0483,C0420,15,22,3518.93,No,34,Other,Delhi,Basic,999,Monthly,1,999,2024-01-16,2024-02-16,On Hold,UPI
+S0484,C0420,25,71,592.75,No,65,F,Delhi,Premium,999,Quarterly,3,2997,2024-06-13,2024-09-13,Expired,Credit Card
+S0485,C0321,55,153,1535.41,No,63,M,Chennai,Premium,2499,Quarterly,3,7497,2025-04-05,2025-07-05,Expired,Net Banking
+S0486,C0024,60,178,1560.24,Yes,57,F,Chennai,Premium,1999,Custom,13,25987,2024-10-19,2025-11-19,Active,Net Banking
+S0487,C0428,29,57,2715.92,Yes,37,Other,Kolkata,Premium,499,Quarterly,3,1497,2025-03-13,2025-06-13,On Hold,Credit Card
+S0488,C0309,29,43,1788.96,Yes,56,Other,Lucknow,Premium,1499,Quarterly,3,4497,2023-12-09,2024-03-09,On Hold,Credit Card
+S0489,C0260,27,24,4961.27,Yes,21,F,Pune,Premium,1999,Quarterly,3,5997,2023-10-05,2024-01-05,On Hold,Net Banking
+S0490,C0418,11,17,1012.16,Yes,41,Other,Chennai,Basic,499,Custom,19,9481,2024-07-02,2026-02-02,On Hold,Net Banking
+S0491,C0214,37,41,1547.19,Yes,61,M,Jaipur,Standard,1499,Monthly,1,1499,2024-05-31,2024-06-30,Expired,UPI
+S0492,C0288,22,57,802.11,Yes,21,M,Mumbai,Premium,1999,Quarterly,3,5997,2024-04-07,2024-07-07,Cancelled,Credit Card
+S0493,C0121,1,1,2653.56,Yes,57,F,Chennai,Standard,999,Quarterly,3,2997,2023-10-18,2024-01-18,Active,Debit Card
+S0494,C0235,37,92,1220.54,No,34,M,Chennai,Basic,1499,Annual,12,17988,2024-12-07,2025-12-07,Expired,Debit Card
+S0495,C0071,22,34,2245.08,Yes,40,Other,Hyderabad,Premium,2499,Quarterly,3,7497,2025-07-29,2025-10-29,Cancelled,UPI
+S0496,C0425,21,21,3735.6,Yes,35,F,Pune,Premium,2499,Quarterly,3,7497,2024-01-06,2024-04-06,Cancelled,Net Banking
+S0497,C0284,37,53,3324.49,No,27,F,Lucknow,Basic,2499,Custom,16,39984,2024-12-09,2026-04-09,Expired,Net Banking
+S0498,C0294,45,119,1687.41,No,18,F,Ahmedabad,Standard,499,Annual,12,5988,2023-09-28,2024-09-28,Expired,Debit Card
+S0499,C0152,28,13,4065.03,No,21,Other,Chennai,Standard,999,Annual,12,11988,2024-04-12,2025-04-12,Active,Net Banking
+S0500,C0347,31,84,4884.33,Yes,56,F,Mumbai,Basic,499,Quarterly,3,1497,2025-01-25,2025-04-25,On Hold,Credit Card
+S0501,C0237,51,153,3369.61,No,36,Other,Chennai,Premium,2499,Annual,12,29988,2024-02-16,2025-02-16,On Hold,Credit Card
+S0502,C0231,44,87,767.07,No,39,F,Bengaluru,Premium,499,Quarterly,3,1497,2024-08-18,2024-11-18,Active,UPI
+S0503,C0269,50,128,3107.41,No,26,M,Bengaluru,Premium,2499,Monthly,1,2499,2024-05-10,2024-06-10,Expired,Credit Card
+S0504,C0276,14,5,3377.55,No,39,M,Hyderabad,Basic,999,Annual,12,11988,2024-06-27,2025-06-27,On Hold,Credit Card
+S0505,C0094,40,58,3793.01,Yes,18,Other,Mumbai,Basic,1999,Custom,24,47976,2024-12-15,2026-12-15,On Hold,Net Banking
+S0506,C0160,27,10,1438.17,No,24,F,Chennai,Standard,2499,Custom,11,27489,2023-08-13,2024-07-13,Expired,Credit Card
+S0507,C0076,34,76,4971.54,Yes,31,F,Ahmedabad,Standard,499,Custom,7,3493,2025-05-20,2025-12-20,Cancelled,Net Banking
+S0508,C0108,7,7,901.98,Yes,45,M,Mumbai,Premium,499,Custom,2,998,2025-04-12,2025-06-12,Active,Net Banking
+S0509,C0225,33,2,1216.36,No,48,M,Bengaluru,Premium,1999,Monthly,1,1999,2023-12-25,2024-01-25,Active,Credit Card
+S0510,C0337,13,11,893.76,No,28,F,Jaipur,Premium,2499,Monthly,1,2499,2025-04-21,2025-05-21,Active,Debit Card
+S0511,C0370,13,1,2883.61,Yes,41,M,Chennai,Premium,1499,Custom,18,26982,2025-03-05,2026-09-05,Active,Debit Card
+S0512,C0068,54,52,4457.83,No,51,Other,Delhi,Premium,2499,Annual,12,29988,2025-02-26,2026-02-26,Cancelled,UPI
+S0513,C0282,32,52,3674.19,No,30,M,Pune,Premium,2499,Custom,7,17493,2024-02-24,2024-09-24,Cancelled,Net Banking
+S0514,C0157,34,94,850.65,Yes,38,Other,Chennai,Basic,2499,Quarterly,3,7497,2024-02-17,2024-05-17,Expired,Credit Card
+S0515,C0001,29,68,2214.3,No,56,M,Mumbai,Standard,999,Quarterly,3,2997,2024-04-20,2024-07-20,Cancelled,UPI
+S0516,C0388,48,140,4970.3,No,30,M,Pune,Premium,2499,Annual,12,29988,2023-09-22,2024-09-22,On Hold,Credit Card
+S0517,C0033,29,73,1019.63,Yes,32,F,Jaipur,Standard,2499,Annual,12,29988,2024-12-09,2025-12-09,Expired,Net Banking
+S0518,C0015,30,67,1772.91,Yes,35,M,Delhi,Standard,1999,Custom,1,1999,2025-07-15,2025-08-15,On Hold,Net Banking
+S0519,C0458,44,47,4538.26,No,18,Other,Lucknow,Standard,499,Quarterly,3,1497,2025-06-05,2025-09-05,Cancelled,Net Banking
+S0520,C0439,36,77,3498.96,No,33,Other,Kolkata,Premium,999,Custom,11,10989,2025-04-16,2026-03-16,Expired,Net Banking
+S0521,C0326,6,6,1073.72,No,35,Other,Lucknow,Basic,2499,Quarterly,3,7497,2023-09-22,2023-12-22,Expired,UPI
+S0522,C0174,25,59,2908.25,No,40,F,Mumbai,Standard,999,Annual,12,11988,2025-06-05,2026-06-05,Cancelled,UPI
+S0523,C0317,37,41,2374.35,No,24,F,Pune,Standard,499,Monthly,1,499,2024-01-18,2024-02-18,Cancelled,Credit Card
+S0524,C0240,32,89,4403.64,No,27,F,Delhi,Premium,2499,Monthly,1,2499,2024-08-02,2024-09-02,On Hold,Net Banking
+S0525,C0413,30,12,729.93,No,22,M,Bengaluru,Basic,1999,Monthly,1,1999,2024-04-03,2024-05-03,Expired,UPI
+S0526,C0052,9,25,2011.6,No,29,Other,Pune,Premium,499,Custom,3,1497,2024-03-20,2024-06-20,On Hold,UPI
+S0527,C0487,3,3,2212.61,No,61,Other,Bengaluru,Standard,1999,Annual,12,23988,2023-09-26,2024-09-26,Active,UPI
+S0528,C0217,54,113,1627.39,Yes,39,F,Kolkata,Basic,1999,Custom,9,17991,2025-07-18,2026-04-18,Cancelled,UPI
+S0529,C0201,46,113,1002.08,No,61,M,Jaipur,Standard,1999,Annual,12,23988,2024-04-28,2025-04-28,Active,Credit Card
+S0530,C0218,45,68,4422.91,Yes,26,M,Hyderabad,Basic,1499,Annual,12,17988,2023-12-24,2024-12-24,Cancelled,Net Banking
+S0531,C0036,32,89,1433.19,Yes,35,F,Bengaluru,Standard,999,Quarterly,3,2997,2024-02-16,2024-05-16,Active,Credit Card
+S0532,C0333,32,3,3229.3,Yes,47,F,Jaipur,Premium,2499,Annual,12,29988,2024-07-15,2025-07-15,Active,Debit Card
+S0533,C0064,34,91,2307.86,Yes,22,F,Ahmedabad,Premium,1999,Quarterly,3,5997,2023-11-13,2024-02-13,Cancelled,Net Banking
+S0534,C0453,20,13,1818.0,Yes,24,Other,Jaipur,Standard,999,Monthly,1,999,2025-07-15,2025-08-15,Expired,UPI
+S0535,C0366,35,76,723.09,Yes,35,F,Kolkata,Standard,1499,Quarterly,3,4497,2024-09-03,2024-12-03,Cancelled,Net Banking
+S0536,C0343,52,115,4677.96,No,33,M,Chennai,Premium,1499,Quarterly,3,4497,2023-08-23,2023-11-23,Expired,Debit Card
+S0537,C0333,38,108,4797.14,Yes,53,M,Delhi,Basic,999,Quarterly,3,2997,2025-02-16,2025-05-16,Cancelled,Net Banking
+S0538,C0214,52,113,1226.29,Yes,64,Other,Mumbai,Premium,2499,Quarterly,3,7497,2024-12-04,2025-03-04,Expired,Net Banking
+S0539,C0438,59,23,3702.7,Yes,37,Other,Lucknow,Basic,2499,Monthly,1,2499,2024-04-18,2024-05-18,On Hold,Credit Card
+S0540,C0082,43,1,3626.21,Yes,38,Other,Ahmedabad,Basic,1499,Quarterly,3,4497,2024-09-26,2024-12-26,Expired,Debit Card
+S0541,C0144,23,23,3765.76,No,56,M,Delhi,Basic,1999,Monthly,1,1999,2024-10-20,2024-11-20,On Hold,Credit Card
+S0542,C0453,52,57,1937.44,No,18,Other,Kolkata,Basic,499,Custom,13,6487,2024-05-24,2025-06-24,Active,Debit Card
+S0543,C0015,17,33,1428.5,No,30,Other,Lucknow,Premium,499,Monthly,1,499,2024-12-05,2025-01-05,Active,UPI
+S0544,C0297,1,1,1315.59,Yes,24,M,Pune,Standard,999,Annual,12,11988,2024-11-05,2025-11-05,Expired,Debit Card
+S0545,C0125,23,40,2117.89,Yes,46,F,Chennai,Standard,999,Monthly,1,999,2023-09-18,2023-10-18,Expired,Debit Card
+S0546,C0318,27,47,1032.11,Yes,50,F,Delhi,Premium,999,Quarterly,3,2997,2024-11-23,2025-02-23,On Hold,Net Banking
+S0547,C0111,23,4,3682.43,Yes,62,M,Chennai,Standard,2499,Quarterly,3,7497,2024-07-12,2024-10-12,On Hold,Net Banking
+S0548,C0238,52,137,3019.82,Yes,43,Other,Kolkata,Standard,1499,Custom,19,28481,2024-04-22,2025-11-22,Cancelled,Debit Card
+S0549,C0310,32,54,559.79,Yes,53,M,Jaipur,Premium,1999,Annual,12,23988,2025-07-23,2026-07-23,Expired,UPI
+S0550,C0229,38,10,2924.16,Yes,45,F,Kolkata,Standard,2499,Monthly,1,2499,2023-12-11,2024-01-11,On Hold,Debit Card
+S0551,C0098,37,84,1259.75,Yes,53,Other,Kolkata,Basic,1499,Custom,18,26982,2024-10-02,2026-04-02,Active,Debit Card
+S0552,C0366,43,77,3872.87,No,40,F,Lucknow,Premium,2499,Custom,2,4998,2025-01-26,2025-03-26,Active,Net Banking
+S0553,C0037,13,10,3195.68,No,31,M,Hyderabad,Premium,999,Quarterly,3,2997,2024-04-04,2024-07-04,On Hold,Credit Card
+S0554,C0050,25,14,4622.65,Yes,42,M,Mumbai,Premium,499,Quarterly,3,1497,2024-06-20,2024-09-20,Active,Credit Card
+S0555,C0366,20,6,2474.25,No,19,Other,Jaipur,Basic,1999,Quarterly,3,5997,2023-11-30,2024-02-29,On Hold,Net Banking
+S0556,C0473,7,7,3395.67,No,30,M,Ahmedabad,Standard,2499,Quarterly,3,7497,2024-05-26,2024-08-26,Cancelled,Debit Card
+S0557,C0269,53,96,1896.52,No,28,M,Mumbai,Basic,2499,Custom,23,57477,2024-08-31,2026-07-31,Cancelled,Credit Card
+S0558,C0337,5,8,2110.33,Yes,24,F,Jaipur,Premium,1499,Custom,24,35976,2025-03-16,2027-03-16,Cancelled,UPI
+S0559,C0179,4,8,804.33,No,21,Other,Mumbai,Premium,999,Custom,19,18981,2023-09-21,2025-04-21,Cancelled,Debit Card
+S0560,C0421,31,60,2865.94,No,18,F,Ahmedabad,Premium,2499,Monthly,1,2499,2023-10-21,2023-11-21,Active,Credit Card
+S0561,C0400,38,80,1880.09,No,41,F,Chennai,Basic,1999,Custom,19,37981,2024-12-14,2026-07-14,Active,Debit Card
+S0562,C0287,22,63,4134.75,No,24,F,Hyderabad,Standard,1499,Annual,12,17988,2024-12-22,2025-12-22,Expired,UPI
+S0563,C0076,38,40,2083.74,No,64,M,Chennai,Standard,2499,Custom,18,44982,2024-04-22,2025-10-22,On Hold,Debit Card
+S0564,C0377,18,12,2756.97,No,31,M,Kolkata,Standard,1999,Quarterly,3,5997,2024-11-01,2025-02-01,On Hold,Net Banking
+S0565,C0023,19,42,4954.53,No,60,M,Jaipur,Standard,1499,Custom,13,19487,2025-02-22,2026-03-22,Cancelled,Credit Card
+S0566,C0142,31,37,4550.6,Yes,22,M,Ahmedabad,Basic,1999,Annual,12,23988,2025-02-05,2026-02-05,On Hold,Debit Card
+S0567,C0471,55,150,757.5,No,61,F,Mumbai,Premium,999,Monthly,1,999,2024-08-06,2024-09-06,Cancelled,Net Banking
+S0568,C0184,49,107,1879.85,Yes,31,F,Delhi,Premium,499,Annual,12,5988,2024-05-30,2025-05-30,On Hold,Debit Card
+S0569,C0289,2,3,1752.51,No,51,M,Chennai,Premium,1999,Annual,12,23988,2024-09-24,2025-09-24,Active,Net Banking
+S0570,C0485,11,14,555.7,No,44,M,Hyderabad,Standard,2499,Quarterly,3,7497,2024-05-08,2024-08-08,Active,Net Banking
+S0571,C0438,37,6,4701.65,No,19,M,Ahmedabad,Premium,1999,Annual,12,23988,2024-01-01,2025-01-01,Cancelled,Net Banking
+S0572,C0465,60,138,4193.21,Yes,41,Other,Ahmedabad,Standard,499,Monthly,1,499,2025-05-04,2025-06-04,Expired,Debit Card
+S0573,C0039,25,43,4224.84,No,35,M,Bengaluru,Standard,1499,Custom,15,22485,2025-04-12,2026-07-12,Active,Credit Card
+S0574,C0404,11,30,2449.86,Yes,35,F,Ahmedabad,Basic,999,Annual,12,11988,2024-04-14,2025-04-14,Active,Debit Card
+S0575,C0306,4,12,3318.83,Yes,46,M,Pune,Premium,999,Monthly,1,999,2025-07-08,2025-08-08,Expired,Credit Card
+S0576,C0102,29,73,4704.54,No,26,M,Chennai,Standard,1999,Monthly,1,1999,2025-03-16,2025-04-16,On Hold,Credit Card
+S0577,C0360,38,38,4800.11,No,18,F,Kolkata,Premium,499,Annual,12,5988,2024-01-04,2025-01-04,Active,Credit Card
+S0578,C0411,7,15,3481.75,Yes,64,M,Jaipur,Basic,999,Annual,12,11988,2025-06-29,2026-06-29,Cancelled,UPI
+S0579,C0363,23,27,2682.01,Yes,25,Other,Delhi,Basic,2499,Quarterly,3,7497,2024-09-14,2024-12-14,Cancelled,Debit Card
+S0580,C0374,42,106,4451.59,No,63,F,Delhi,Premium,999,Annual,12,11988,2024-09-30,2025-09-30,Cancelled,UPI
+S0581,C0140,36,106,4952.21,Yes,59,Other,Chennai,Basic,2499,Quarterly,3,7497,2025-01-28,2025-04-28,Cancelled,Net Banking
+S0582,C0465,25,15,2319.87,No,27,F,Bengaluru,Standard,2499,Monthly,1,2499,2024-04-22,2024-05-22,Expired,Net Banking
+S0583,C0185,13,9,1760.31,No,37,M,Kolkata,Basic,1499,Monthly,1,1499,2024-12-10,2025-01-10,On Hold,Debit Card
+S0584,C0276,30,9,751.67,No,62,Other,Chennai,Standard,999,Quarterly,3,2997,2025-03-30,2025-06-30,On Hold,UPI
+S0585,C0060,10,23,1999.34,Yes,39,F,Hyderabad,Standard,999,Monthly,1,999,2023-08-27,2023-09-27,Cancelled,Credit Card
+S0586,C0383,55,79,1982.44,Yes,40,Other,Chennai,Standard,1999,Monthly,1,1999,2024-03-08,2024-04-08,Active,UPI
+S0587,C0385,39,13,2142.47,No,35,M,Jaipur,Standard,2499,Annual,12,29988,2024-11-18,2025-11-18,Active,Debit Card
+S0588,C0064,38,31,1256.58,No,41,F,Ahmedabad,Basic,499,Annual,12,5988,2024-07-12,2025-07-12,Cancelled,Net Banking
+S0589,C0105,28,80,3176.42,No,45,M,Hyderabad,Premium,499,Quarterly,3,1497,2023-10-03,2024-01-03,Active,Credit Card
+S0590,C0425,15,5,2922.74,No,35,Other,Chennai,Standard,1999,Custom,7,13993,2023-08-16,2024-03-16,On Hold,UPI
+S0591,C0208,19,1,1016.08,No,27,Other,Hyderabad,Premium,2499,Monthly,1,2499,2025-04-02,2025-05-02,Cancelled,Net Banking
+S0592,C0283,17,7,1515.36,Yes,51,F,Bengaluru,Basic,1999,Custom,23,45977,2024-09-26,2026-08-26,Expired,Credit Card
+S0593,C0245,29,25,2756.66,No,38,F,Kolkata,Premium,999,Quarterly,3,2997,2024-12-16,2025-03-16,Active,Credit Card
+S0594,C0475,1,2,1969.04,Yes,58,M,Lucknow,Basic,499,Annual,12,5988,2025-02-21,2026-02-21,On Hold,Debit Card
+S0595,C0142,15,18,4097.27,No,44,F,Kolkata,Premium,2499,Custom,20,49980,2024-11-06,2026-07-06,On Hold,Net Banking
+S0596,C0208,7,12,3113.42,Yes,48,F,Hyderabad,Premium,2499,Monthly,1,2499,2025-05-30,2025-06-30,On Hold,Credit Card
+S0597,C0108,54,137,1066.58,No,18,M,Ahmedabad,Premium,999,Custom,19,18981,2025-06-26,2027-01-26,Expired,Net Banking
+S0598,C0324,49,97,1562.75,Yes,21,Other,Lucknow,Premium,1499,Monthly,1,1499,2023-09-15,2023-10-15,Active,UPI
+S0599,C0053,42,60,630.48,Yes,61,Other,Delhi,Standard,2499,Quarterly,3,7497,2025-02-23,2025-05-23,On Hold,Net Banking
+S0600,C0007,27,65,3515.75,No,53,M,Pune,Basic,1499,Custom,7,10493,2023-09-23,2024-04-23,Active,Credit Card
+S0601,C0421,2,3,1090.92,Yes,34,F,Kolkata,Basic,1999,Monthly,1,1999,2025-05-25,2025-06-25,On Hold,UPI
+S0602,C0144,15,34,2203.6,Yes,27,F,Bengaluru,Basic,1499,Monthly,1,1499,2024-03-18,2024-04-18,Expired,Debit Card
+S0603,C0420,45,118,2652.86,Yes,18,F,Mumbai,Standard,2499,Custom,13,32487,2024-12-20,2026-01-20,On Hold,Net Banking
+S0604,C0478,47,113,3820.65,Yes,27,F,Pune,Standard,2499,Custom,10,24990,2024-06-13,2025-04-13,On Hold,Debit Card
+S0605,C0241,3,8,4631.32,Yes,38,M,Ahmedabad,Basic,499,Quarterly,3,1497,2023-12-23,2024-03-23,Cancelled,Debit Card
+S0606,C0034,45,119,658.38,Yes,40,M,Pune,Basic,499,Quarterly,3,1497,2024-04-13,2024-07-13,Expired,Credit Card
+S0607,C0098,27,33,1249.86,No,46,F,Pune,Standard,1499,Monthly,1,1499,2025-03-01,2025-04-01,Cancelled,Debit Card
+S0608,C0351,6,5,2737.07,Yes,35,Other,Kolkata,Basic,499,Monthly,1,499,2024-09-01,2024-10-01,On Hold,Credit Card
+S0609,C0394,31,52,4548.05,Yes,39,F,Delhi,Premium,2499,Custom,4,9996,2025-08-02,2025-12-02,Active,Net Banking
+S0610,C0089,33,66,3839.96,No,53,F,Delhi,Basic,1499,Custom,1,1499,2024-02-02,2024-03-02,Expired,UPI
+S0611,C0189,2,5,1477.62,No,22,F,Ahmedabad,Basic,499,Annual,12,5988,2024-04-27,2025-04-27,On Hold,UPI
+S0612,C0367,43,49,2829.93,Yes,33,Other,Kolkata,Basic,999,Monthly,1,999,2023-11-26,2023-12-26,Active,Net Banking
+S0613,C0012,22,5,4244.01,Yes,49,Other,Pune,Premium,499,Custom,13,6487,2023-11-23,2024-12-23,Active,Debit Card
+S0614,C0265,53,132,1219.48,No,38,Other,Pune,Premium,1999,Annual,12,23988,2025-06-20,2026-06-20,Expired,Debit Card
+S0615,C0204,56,72,886.26,No,34,Other,Jaipur,Standard,1999,Quarterly,3,5997,2024-12-21,2025-03-21,Active,Debit Card
+S0616,C0263,45,3,2832.41,Yes,24,Other,Pune,Premium,1999,Monthly,1,1999,2025-03-26,2025-04-26,On Hold,Net Banking
+S0617,C0123,54,28,1033.03,Yes,54,F,Lucknow,Premium,1999,Quarterly,3,5997,2024-08-15,2024-11-15,Cancelled,Net Banking
+S0618,C0137,52,107,4462.01,No,23,Other,Ahmedabad,Basic,499,Custom,13,6487,2025-08-08,2026-09-08,Active,Debit Card
+S0619,C0043,59,118,1084.78,Yes,35,Other,Chennai,Premium,499,Custom,14,6986,2023-11-10,2025-01-10,Active,Debit Card
+S0620,C0198,29,72,2580.13,Yes,46,Other,Pune,Standard,1499,Annual,12,17988,2025-07-16,2026-07-16,Active,Debit Card
+S0621,C0244,32,39,3450.42,No,20,M,Mumbai,Premium,1499,Annual,12,17988,2024-03-03,2025-03-03,Cancelled,Debit Card
+S0622,C0105,53,62,4281.12,Yes,32,M,Mumbai,Premium,999,Custom,21,20979,2024-08-15,2026-05-15,Cancelled,Credit Card
+S0623,C0167,20,20,2725.22,No,54,M,Ahmedabad,Basic,2499,Annual,12,29988,2025-06-29,2026-06-29,Active,Credit Card
+S0624,C0207,6,2,2929.13,No,28,M,Chennai,Standard,999,Annual,12,11988,2024-08-03,2025-08-03,Active,UPI
+S0625,C0494,2,4,2898.97,Yes,24,M,Ahmedabad,Basic,1499,Annual,12,17988,2025-04-13,2026-04-13,Expired,Credit Card
+S0626,C0195,56,25,2697.53,No,51,F,Bengaluru,Premium,1499,Monthly,1,1499,2024-11-19,2024-12-19,Cancelled,UPI
+S0627,C0123,49,82,2368.98,No,46,M,Mumbai,Premium,499,Annual,12,5988,2024-12-22,2025-12-22,Cancelled,Net Banking
+S0628,C0490,57,121,2717.28,Yes,59,M,Chennai,Basic,1999,Annual,12,23988,2025-07-04,2026-07-04,Active,Net Banking
+S0629,C0182,35,8,3240.26,No,32,F,Kolkata,Standard,1999,Monthly,1,1999,2023-12-09,2024-01-09,Cancelled,Debit Card
+S0630,C0329,33,50,743.11,Yes,49,Other,Pune,Standard,2499,Monthly,1,2499,2023-11-08,2023-12-08,On Hold,Credit Card
+S0631,C0166,59,154,1852.22,No,54,Other,Jaipur,Basic,999,Monthly,1,999,2024-06-09,2024-07-09,Cancelled,Net Banking
+S0632,C0117,38,22,2844.47,No,27,M,Ahmedabad,Standard,999,Monthly,1,999,2024-11-18,2024-12-18,Cancelled,UPI
+S0633,C0067,28,44,2086.48,Yes,31,M,Mumbai,Premium,1999,Quarterly,3,5997,2023-10-23,2024-01-23,On Hold,Net Banking
+S0634,C0472,39,88,3749.22,Yes,62,M,Bengaluru,Standard,499,Monthly,1,499,2023-09-27,2023-10-27,Active,Net Banking
+S0635,C0220,42,51,4406.83,Yes,46,M,Kolkata,Standard,1499,Monthly,1,1499,2023-12-31,2024-01-31,Active,Net Banking
+S0636,C0354,36,96,1316.83,Yes,41,Other,Lucknow,Standard,2499,Quarterly,3,7497,2024-04-07,2024-07-07,Active,Net Banking
+S0637,C0054,7,10,624.17,Yes,36,F,Jaipur,Basic,499,Custom,12,5988,2024-07-19,2025-07-19,Cancelled,Debit Card
+S0638,C0262,41,39,2287.9,No,46,F,Ahmedabad,Standard,999,Annual,12,11988,2024-03-03,2025-03-03,Active,Net Banking
+S0639,C0213,7,5,2886.34,No,55,F,Jaipur,Premium,999,Annual,12,11988,2025-03-31,2026-03-31,Expired,Debit Card
+S0640,C0179,23,1,1010.31,No,59,Other,Jaipur,Premium,499,Monthly,1,499,2024-06-07,2024-07-07,Expired,Debit Card
+S0641,C0163,27,70,2643.62,Yes,33,F,Mumbai,Standard,1999,Custom,8,15992,2024-04-11,2024-12-11,Cancelled,Credit Card
+S0642,C0266,24,62,882.37,No,64,F,Jaipur,Standard,499,Annual,12,5988,2023-11-04,2024-11-04,Expired,UPI
+S0643,C0217,49,70,1918.42,No,38,M,Hyderabad,Basic,2499,Annual,12,29988,2023-12-05,2024-12-05,Active,Net Banking
+S0644,C0164,17,1,3651.59,Yes,45,F,Pune,Basic,499,Annual,12,5988,2024-11-10,2025-11-10,On Hold,Credit Card
+S0645,C0246,22,26,3056.51,No,37,M,Jaipur,Premium,499,Monthly,1,499,2024-10-18,2024-11-18,Expired,Credit Card
+S0646,C0378,37,19,594.84,No,61,F,Mumbai,Basic,1499,Quarterly,3,4497,2024-10-13,2025-01-13,On Hold,Net Banking
+S0647,C0339,7,5,3858.93,Yes,38,M,Delhi,Premium,1999,Custom,10,19990,2025-07-06,2026-05-06,On Hold,Debit Card
+S0648,C0197,30,12,4708.68,Yes,57,Other,Lucknow,Standard,2499,Annual,12,29988,2024-03-29,2025-03-29,On Hold,Credit Card
+S0649,C0009,34,13,800.99,Yes,21,F,Kolkata,Standard,1499,Quarterly,3,4497,2024-10-27,2025-01-27,Active,UPI
+S0650,C0387,55,16,1720.3,Yes,39,F,Bengaluru,Premium,499,Quarterly,3,1497,2024-08-02,2024-11-02,Expired,Debit Card
+S0651,C0053,33,48,4130.83,No,55,F,Chennai,Standard,1999,Custom,16,31984,2024-04-11,2025-08-11,Cancelled,Net Banking
+S0652,C0438,34,31,4657.55,Yes,47,M,Bengaluru,Basic,1499,Quarterly,3,4497,2024-12-07,2025-03-07,Cancelled,UPI
+S0653,C0107,30,16,1463.06,Yes,58,Other,Lucknow,Premium,1499,Custom,10,14990,2024-10-04,2025-08-04,On Hold,UPI
+S0654,C0165,43,6,3545.7,Yes,39,M,Jaipur,Standard,2499,Quarterly,3,7497,2024-07-04,2024-10-04,Cancelled,Net Banking
+S0655,C0102,26,46,1327.63,No,28,M,Lucknow,Basic,1499,Quarterly,3,4497,2024-10-26,2025-01-26,Active,UPI
+S0656,C0138,60,52,2081.19,Yes,59,M,Pune,Basic,499,Annual,12,5988,2024-11-25,2025-11-25,Active,UPI
+S0657,C0273,38,96,978.31,No,38,F,Bengaluru,Premium,499,Annual,12,5988,2024-12-24,2025-12-24,Cancelled,Debit Card
+S0658,C0385,6,3,3680.93,No,49,Other,Lucknow,Standard,1499,Annual,12,17988,2024-12-01,2025-12-01,Cancelled,Debit Card
+S0659,C0186,27,27,3394.79,No,51,Other,Pune,Basic,2499,Annual,12,29988,2023-09-05,2024-09-05,Active,Net Banking
+S0660,C0034,43,124,1786.26,Yes,53,F,Jaipur,Basic,2499,Custom,17,42483,2024-11-12,2026-04-12,Expired,Credit Card
+S0661,C0193,13,4,3636.29,No,43,Other,Jaipur,Standard,2499,Custom,19,47481,2025-06-28,2027-01-28,Cancelled,Net Banking
+S0662,C0351,34,73,576.28,Yes,59,M,Chennai,Standard,1999,Custom,12,23988,2023-09-11,2024-09-11,Expired,Credit Card
+S0663,C0391,49,145,1398.0,No,42,F,Lucknow,Basic,1499,Custom,9,13491,2024-02-11,2024-11-11,Active,Credit Card
+S0664,C0398,30,12,1713.72,No,25,Other,Kolkata,Basic,2499,Custom,23,57477,2024-02-27,2026-01-27,Expired,Credit Card
+S0665,C0199,51,13,4981.2,No,49,F,Jaipur,Basic,2499,Quarterly,3,7497,2024-10-07,2025-01-07,Cancelled,Credit Card
+S0666,C0281,4,7,2537.4,Yes,33,M,Kolkata,Basic,1999,Custom,20,39980,2024-04-13,2025-12-13,On Hold,UPI
+S0667,C0488,28,14,3721.99,Yes,55,Other,Mumbai,Standard,1499,Custom,19,28481,2024-05-20,2025-12-20,Expired,Debit Card
+S0668,C0280,6,16,1225.14,No,35,F,Mumbai,Premium,2499,Monthly,1,2499,2023-12-18,2024-01-18,Active,Credit Card
+S0669,C0432,23,3,3770.1,No,51,Other,Pune,Premium,1499,Quarterly,3,4497,2025-05-07,2025-08-07,Active,UPI
+S0670,C0014,52,125,2148.66,Yes,29,M,Hyderabad,Standard,2499,Monthly,1,2499,2025-04-19,2025-05-19,On Hold,Net Banking
+S0671,C0374,4,9,1702.77,Yes,38,M,Ahmedabad,Basic,499,Monthly,1,499,2024-08-02,2024-09-02,Cancelled,Debit Card
+S0672,C0437,6,11,4620.32,Yes,28,F,Jaipur,Standard,999,Quarterly,3,2997,2025-07-27,2025-10-27,Cancelled,Net Banking
+S0673,C0155,22,6,1292.18,No,45,Other,Lucknow,Premium,1499,Custom,22,32978,2023-11-03,2025-09-03,Active,UPI
+S0674,C0431,36,14,1233.09,Yes,51,M,Delhi,Premium,2499,Quarterly,3,7497,2024-09-29,2024-12-29,Active,UPI
+S0675,C0205,45,97,1746.31,Yes,36,M,Delhi,Basic,999,Monthly,1,999,2025-06-06,2025-07-06,Cancelled,Net Banking
+S0676,C0150,53,146,3763.3,Yes,34,Other,Delhi,Standard,2499,Custom,10,24990,2025-05-31,2026-03-31,Expired,Credit Card
+S0677,C0155,47,113,1300.7,Yes,41,M,Bengaluru,Basic,499,Custom,16,7984,2024-05-29,2025-09-29,Cancelled,UPI
+S0678,C0075,53,68,3269.31,No,52,M,Bengaluru,Standard,999,Quarterly,3,2997,2024-10-29,2025-01-29,On Hold,Credit Card
+S0679,C0200,18,8,2638.12,No,51,M,Chennai,Premium,2499,Quarterly,3,7497,2024-04-15,2024-07-15,Cancelled,Debit Card
+S0680,C0425,46,104,4569.39,No,34,Other,Hyderabad,Basic,999,Monthly,1,999,2025-04-12,2025-05-12,Expired,UPI
+S0681,C0373,55,6,1127.29,No,20,Other,Chennai,Basic,999,Monthly,1,999,2023-12-03,2024-01-03,On Hold,Debit Card
+S0682,C0404,40,43,804.25,Yes,19,F,Jaipur,Basic,2499,Custom,5,12495,2023-09-05,2024-02-05,Active,Net Banking
+S0683,C0126,42,44,4392.87,No,54,Other,Lucknow,Standard,1999,Quarterly,3,5997,2024-08-01,2024-11-01,Active,Debit Card
+S0684,C0045,50,47,3300.02,No,34,F,Ahmedabad,Standard,1999,Quarterly,3,5997,2023-10-19,2024-01-19,Expired,Net Banking
+S0685,C0063,2,3,3787.12,Yes,26,Other,Jaipur,Standard,499,Quarterly,3,1497,2023-10-28,2024-01-28,Cancelled,Debit Card
+S0686,C0473,38,28,4152.55,Yes,23,M,Ahmedabad,Basic,1999,Custom,17,33983,2023-12-24,2025-05-24,Expired,Debit Card
+S0687,C0263,45,133,4565.89,Yes,41,F,Mumbai,Basic,1499,Monthly,1,1499,2023-09-23,2023-10-23,Expired,UPI
+S0688,C0193,59,102,4744.2,No,36,M,Bengaluru,Basic,2499,Annual,12,29988,2024-07-26,2025-07-26,Cancelled,Debit Card
+S0689,C0236,38,55,1290.72,No,51,M,Delhi,Basic,499,Quarterly,3,1497,2024-10-12,2025-01-12,On Hold,Credit Card
+S0690,C0466,32,93,1188.77,No,23,Other,Ahmedabad,Basic,2499,Quarterly,3,7497,2024-05-02,2024-08-02,Expired,Net Banking
+S0691,C0473,10,1,1240.37,Yes,33,Other,Mumbai,Basic,2499,Monthly,1,2499,2025-02-27,2025-03-27,Active,Debit Card
+S0692,C0386,8,17,4186.38,No,50,Other,Bengaluru,Basic,499,Quarterly,3,1497,2025-03-04,2025-06-04,On Hold,UPI
+S0693,C0032,51,27,3304.28,No,57,Other,Bengaluru,Standard,2499,Monthly,1,2499,2025-08-02,2025-09-02,Cancelled,UPI
+S0694,C0393,4,4,3187.49,No,62,Other,Jaipur,Basic,999,Custom,7,6993,2024-11-08,2025-06-08,Expired,Net Banking
+S0695,C0248,27,63,1020.18,No,49,F,Jaipur,Premium,999,Annual,12,11988,2024-11-28,2025-11-28,Expired,Net Banking
+S0696,C0060,56,108,3506.88,No,63,M,Jaipur,Standard,2499,Quarterly,3,7497,2023-12-08,2024-03-08,Active,Debit Card
+S0697,C0122,19,19,1739.45,No,50,F,Lucknow,Premium,2499,Quarterly,3,7497,2024-04-12,2024-07-12,On Hold,Credit Card
+S0698,C0460,44,5,2442.59,No,58,Other,Pune,Premium,1999,Quarterly,3,5997,2024-10-25,2025-01-25,Cancelled,Debit Card
+S0699,C0005,28,3,916.47,Yes,47,Other,Delhi,Premium,2499,Annual,12,29988,2024-06-25,2025-06-25,Expired,UPI
+S0700,C0429,45,50,4989.65,Yes,50,F,Mumbai,Premium,999,Annual,12,11988,2024-07-10,2025-07-10,On Hold,Net Banking
+S0701,C0213,9,18,1119.64,Yes,63,Other,Delhi,Premium,1999,Annual,12,23988,2024-02-01,2025-02-01,Active,Net Banking
+S0702,C0234,19,24,4140.82,No,39,M,Kolkata,Standard,999,Custom,2,1998,2024-12-26,2025-02-26,Cancelled,UPI
+S0703,C0287,24,47,4850.12,Yes,30,M,Hyderabad,Standard,2499,Custom,4,9996,2024-01-09,2024-05-09,Active,Net Banking
+S0704,C0230,18,33,4058.16,No,35,F,Hyderabad,Basic,1499,Annual,12,17988,2025-06-18,2026-06-18,On Hold,Net Banking
+S0705,C0097,7,9,1756.81,Yes,61,F,Ahmedabad,Basic,1499,Annual,12,17988,2025-06-13,2026-06-13,On Hold,UPI
+S0706,C0218,41,27,919.41,Yes,21,F,Bengaluru,Premium,999,Monthly,1,999,2025-03-11,2025-04-11,Expired,Net Banking
+S0707,C0280,52,23,3341.0,Yes,41,F,Chennai,Premium,499,Monthly,1,499,2023-12-21,2024-01-21,Active,UPI
+S0708,C0076,24,3,4259.7,Yes,23,F,Jaipur,Standard,999,Annual,12,11988,2024-03-14,2025-03-14,Active,UPI
+S0709,C0127,59,12,4985.94,No,46,M,Pune,Premium,499,Custom,11,5489,2024-01-21,2024-12-21,Active,Credit Card
+S0710,C0340,27,74,3496.18,Yes,22,F,Delhi,Standard,1499,Custom,14,20986,2024-11-24,2026-01-24,Cancelled,Debit Card
+S0711,C0010,27,20,958.1,No,19,M,Chennai,Basic,1499,Custom,22,32978,2025-07-01,2027-05-01,Cancelled,UPI
+S0712,C0330,5,13,3394.46,No,52,M,Jaipur,Premium,1499,Custom,14,20986,2024-05-17,2025-07-17,On Hold,Net Banking
+S0713,C0315,58,44,4414.56,No,22,M,Lucknow,Premium,2499,Monthly,1,2499,2024-04-17,2024-05-17,Expired,Debit Card
+S0714,C0188,43,94,671.25,Yes,33,F,Jaipur,Premium,999,Custom,10,9990,2024-05-09,2025-03-09,On Hold,Net Banking
+S0715,C0334,49,132,1286.31,Yes,54,F,Delhi,Standard,2499,Quarterly,3,7497,2025-03-26,2025-06-26,On Hold,UPI
+S0716,C0048,24,25,1664.86,No,18,F,Bengaluru,Basic,1499,Quarterly,3,4497,2024-07-09,2024-10-09,Active,Debit Card
+S0717,C0181,28,54,2158.24,Yes,59,M,Delhi,Basic,2499,Annual,12,29988,2023-10-15,2024-10-15,Cancelled,Debit Card
+S0718,C0444,20,13,539.21,Yes,37,Other,Delhi,Premium,2499,Monthly,1,2499,2025-06-16,2025-07-16,Active,Credit Card
+S0719,C0028,50,49,2543.68,Yes,49,Other,Pune,Basic,499,Monthly,1,499,2025-07-03,2025-08-03,On Hold,Debit Card
+S0720,C0307,39,108,1622.22,Yes,40,Other,Hyderabad,Premium,2499,Quarterly,3,7497,2023-09-14,2023-12-14,Active,UPI
+S0721,C0322,32,17,2606.37,No,25,Other,Bengaluru,Basic,499,Annual,12,5988,2024-04-19,2025-04-19,Expired,UPI
+S0722,C0138,36,54,3999.3,No,32,Other,Chennai,Basic,1499,Monthly,1,1499,2025-03-29,2025-04-29,Active,UPI
+S0723,C0277,56,94,982.2,Yes,21,M,Jaipur,Standard,999,Monthly,1,999,2024-05-28,2024-06-28,On Hold,Debit Card
+S0724,C0158,30,42,3882.9,No,49,F,Delhi,Standard,1999,Custom,16,31984,2025-06-05,2026-10-05,Cancelled,UPI
+S0725,C0248,55,129,3610.18,Yes,21,Other,Pune,Standard,999,Custom,21,20979,2023-11-24,2025-08-24,Cancelled,Net Banking
+S0726,C0200,29,44,4650.53,Yes,19,F,Ahmedabad,Standard,499,Custom,5,2495,2024-04-07,2024-09-07,Expired,UPI
+S0727,C0264,49,29,2075.22,Yes,40,M,Bengaluru,Standard,1499,Annual,12,17988,2024-11-18,2025-11-18,On Hold,Net Banking
+S0728,C0251,1,1,4035.97,No,35,F,Bengaluru,Basic,499,Monthly,1,499,2024-09-12,2024-10-12,Active,UPI
+S0729,C0047,32,20,4237.79,Yes,35,M,Bengaluru,Premium,999,Monthly,1,999,2025-02-18,2025-03-18,Active,Credit Card
+S0730,C0339,51,83,769.64,No,18,M,Kolkata,Standard,499,Quarterly,3,1497,2025-03-26,2025-06-26,Cancelled,Debit Card
+S0731,C0008,41,40,1133.19,No,21,F,Bengaluru,Premium,1999,Quarterly,3,5997,2023-10-17,2024-01-17,Expired,Net Banking
+S0732,C0073,45,47,3256.83,Yes,34,F,Bengaluru,Premium,2499,Custom,1,2499,2023-10-12,2023-11-12,Cancelled,Credit Card
+S0733,C0283,59,54,2345.01,Yes,53,M,Hyderabad,Basic,499,Monthly,1,499,2024-08-17,2024-09-17,Expired,Net Banking
+S0734,C0068,7,5,2824.79,No,18,Other,Pune,Basic,2499,Monthly,1,2499,2024-08-20,2024-09-20,On Hold,Debit Card
+S0735,C0322,29,50,1788.94,Yes,59,Other,Jaipur,Standard,499,Monthly,1,499,2025-01-11,2025-02-11,Cancelled,Credit Card
+S0736,C0394,36,86,2505.46,No,42,M,Chennai,Premium,499,Monthly,1,499,2024-03-28,2024-04-28,On Hold,Debit Card
+S0737,C0129,27,33,3033.01,Yes,22,Other,Pune,Standard,999,Quarterly,3,2997,2024-12-20,2025-03-20,Expired,Credit Card
+S0738,C0156,16,4,2361.06,Yes,37,Other,Lucknow,Basic,1999,Monthly,1,1999,2024-08-09,2024-09-09,On Hold,UPI
+S0739,C0143,47,42,2791.98,No,65,Other,Lucknow,Standard,999,Monthly,1,999,2024-01-03,2024-02-03,Active,Credit Card
+S0740,C0316,55,147,4898.2,No,20,Other,Lucknow,Premium,499,Quarterly,3,1497,2025-07-17,2025-10-17,On Hold,Debit Card
+S0741,C0384,32,21,752.35,No,59,M,Lucknow,Standard,499,Quarterly,3,1497,2024-01-02,2024-04-02,Expired,UPI
+S0742,C0307,35,90,2434.95,No,42,Other,Ahmedabad,Basic,999,Quarterly,3,2997,2025-03-22,2025-06-22,Active,UPI
+S0743,C0366,41,8,3993.86,No,26,F,Kolkata,Premium,999,Monthly,1,999,2023-12-16,2024-01-16,Active,Debit Card
+S0744,C0309,8,16,3434.74,No,27,F,Ahmedabad,Standard,499,Monthly,1,499,2024-01-18,2024-02-18,On Hold,UPI
+S0745,C0168,25,20,2042.25,No,48,F,Lucknow,Basic,1999,Annual,12,23988,2024-09-30,2025-09-30,Active,Debit Card
+S0746,C0090,25,38,1716.73,Yes,29,Other,Ahmedabad,Premium,1999,Annual,12,23988,2024-10-25,2025-10-25,Active,Debit Card
+S0747,C0146,21,46,4118.72,No,38,M,Hyderabad,Premium,1999,Custom,10,19990,2025-04-07,2026-02-07,Active,UPI
+S0748,C0088,15,1,2182.16,Yes,34,M,Ahmedabad,Premium,1999,Annual,12,23988,2023-12-05,2024-12-05,Cancelled,Net Banking
+S0749,C0286,42,89,4264.99,Yes,18,Other,Pune,Standard,499,Monthly,1,499,2025-06-06,2025-07-06,Cancelled,Debit Card
+S0750,C0059,43,74,3082.19,Yes,22,Other,Jaipur,Standard,1499,Quarterly,3,4497,2025-07-09,2025-10-09,Active,UPI
+S0751,C0379,60,21,512.59,Yes,56,Other,Ahmedabad,Basic,499,Monthly,1,499,2025-08-03,2025-09-03,On Hold,Net Banking
+S0752,C0478,19,10,3850.71,No,56,F,Bengaluru,Basic,1999,Custom,18,35982,2024-08-17,2026-02-17,Cancelled,Debit Card
+S0753,C0382,29,32,3906.1,Yes,36,M,Bengaluru,Premium,499,Quarterly,3,1497,2024-03-23,2024-06-23,Active,Net Banking
+S0754,C0481,39,38,752.49,Yes,32,Other,Jaipur,Premium,999,Annual,12,11988,2024-02-18,2025-02-18,Expired,Credit Card
+S0755,C0217,35,89,4896.2,Yes,22,Other,Bengaluru,Standard,1499,Custom,18,26982,2024-04-09,2025-10-09,Active,Debit Card
+S0756,C0375,40,67,2432.99,No,39,F,Delhi,Basic,2499,Monthly,1,2499,2025-03-25,2025-04-25,On Hold,UPI
+S0757,C0192,13,7,3528.85,No,36,Other,Mumbai,Basic,1999,Annual,12,23988,2024-08-07,2025-08-07,Cancelled,Credit Card
+S0758,C0222,47,1,2738.36,No,37,F,Mumbai,Premium,999,Monthly,1,999,2024-07-30,2024-08-30,On Hold,Credit Card
+S0759,C0462,16,9,4611.53,No,40,F,Chennai,Basic,1499,Custom,11,16489,2024-01-03,2024-12-03,On Hold,UPI
+S0760,C0042,11,25,3948.15,No,50,Other,Bengaluru,Standard,1999,Custom,4,7996,2025-03-13,2025-07-13,On Hold,UPI
+S0761,C0083,54,80,822.63,Yes,60,F,Ahmedabad,Standard,1999,Custom,10,19990,2025-06-09,2026-04-09,Expired,Debit Card
+S0762,C0224,39,76,4575.58,Yes,37,Other,Lucknow,Premium,1499,Annual,12,17988,2024-02-06,2025-02-06,Expired,Debit Card
+S0763,C0311,17,48,1560.01,No,61,Other,Bengaluru,Premium,499,Quarterly,3,1497,2024-01-18,2024-04-18,On Hold,Credit Card
+S0764,C0354,53,137,794.47,Yes,65,M,Bengaluru,Basic,1499,Custom,6,8994,2024-07-14,2025-01-14,Active,Debit Card
+S0765,C0058,50,109,2263.35,No,38,Other,Chennai,Basic,2499,Quarterly,3,7497,2023-10-23,2024-01-23,On Hold,Debit Card
+S0766,C0223,18,2,4955.45,No,62,Other,Lucknow,Premium,1999,Custom,21,41979,2025-02-08,2026-11-08,Cancelled,Credit Card
+S0767,C0320,30,1,4886.23,Yes,60,M,Delhi,Premium,999,Annual,12,11988,2025-03-03,2026-03-03,Cancelled,Credit Card
+S0768,C0220,27,27,4193.04,No,30,Other,Hyderabad,Premium,1999,Quarterly,3,5997,2025-05-29,2025-08-29,On Hold,Net Banking
+S0769,C0088,56,74,3934.47,No,38,Other,Ahmedabad,Premium,499,Custom,7,3493,2023-10-08,2024-05-08,On Hold,UPI
+S0770,C0256,41,91,3993.09,No,32,M,Mumbai,Premium,1999,Custom,23,45977,2024-04-01,2026-03-01,Active,Debit Card
+S0771,C0188,28,3,1541.25,Yes,65,F,Mumbai,Standard,499,Annual,12,5988,2024-02-16,2025-02-16,Expired,UPI
+S0772,C0481,48,107,591.23,Yes,47,F,Mumbai,Basic,499,Monthly,1,499,2025-05-17,2025-06-17,Expired,Debit Card
+S0773,C0180,55,118,4739.8,No,52,Other,Bengaluru,Standard,1499,Custom,8,11992,2025-06-07,2026-02-07,Expired,Debit Card
+S0774,C0481,47,105,3453.14,No,32,M,Hyderabad,Standard,1499,Monthly,1,1499,2023-12-02,2024-01-02,Active,Debit Card
+S0775,C0316,54,158,1389.75,Yes,24,F,Pune,Standard,999,Quarterly,3,2997,2024-03-08,2024-06-08,Expired,UPI
+S0776,C0151,35,61,2720.01,No,56,Other,Bengaluru,Premium,2499,Custom,17,42483,2023-10-10,2025-03-10,Cancelled,UPI
+S0777,C0085,19,7,2207.03,No,30,M,Chennai,Premium,1999,Quarterly,3,5997,2024-07-15,2024-10-15,On Hold,UPI
+S0778,C0300,6,13,1090.77,No,62,M,Kolkata,Premium,499,Custom,11,5489,2025-01-15,2025-12-15,Active,Credit Card
+S0779,C0278,9,18,3708.26,No,21,Other,Pune,Basic,1499,Monthly,1,1499,2023-11-20,2023-12-20,Cancelled,Credit Card
+S0780,C0167,54,16,3000.48,Yes,43,F,Bengaluru,Basic,999,Monthly,1,999,2023-10-28,2023-11-28,Expired,Debit Card
+S0781,C0340,33,21,2855.44,No,63,F,Hyderabad,Standard,2499,Custom,6,14994,2025-02-14,2025-08-14,On Hold,Credit Card
+S0782,C0494,42,14,2026.61,No,22,F,Kolkata,Standard,999,Quarterly,3,2997,2024-07-13,2024-10-13,On Hold,UPI
+S0783,C0360,18,23,1863.7,No,56,M,Chennai,Premium,1999,Monthly,1,1999,2024-12-26,2025-01-26,Expired,Net Banking
+S0784,C0193,38,69,940.04,No,19,Other,Mumbai,Basic,499,Annual,12,5988,2024-08-27,2025-08-27,Active,Credit Card
+S0785,C0078,27,52,4920.47,Yes,49,M,Pune,Standard,999,Annual,12,11988,2025-04-11,2026-04-11,Active,Net Banking
+S0786,C0264,7,8,4604.49,Yes,18,M,Jaipur,Basic,1499,Monthly,1,1499,2025-08-10,2025-09-10,On Hold,Debit Card
+S0787,C0366,43,1,4364.45,No,28,F,Jaipur,Basic,1999,Custom,17,33983,2024-05-05,2025-10-05,On Hold,Debit Card
+S0788,C0280,11,22,3055.62,No,49,F,Mumbai,Premium,999,Monthly,1,999,2024-05-30,2024-06-30,On Hold,Net Banking
+S0789,C0160,11,12,909.22,No,61,Other,Bengaluru,Basic,499,Annual,12,5988,2024-07-10,2025-07-10,On Hold,Credit Card
+S0790,C0376,32,75,3471.33,Yes,24,F,Hyderabad,Premium,1999,Annual,12,23988,2024-08-29,2025-08-29,Active,Net Banking
+S0791,C0226,60,1,4199.69,Yes,64,F,Chennai,Premium,999,Quarterly,3,2997,2025-04-02,2025-07-02,Cancelled,Credit Card
+S0792,C0055,4,11,1708.33,Yes,41,M,Mumbai,Basic,999,Quarterly,3,2997,2023-09-29,2023-12-29,Expired,Credit Card
+S0793,C0293,17,35,4424.55,No,57,Other,Ahmedabad,Premium,1499,Monthly,1,1499,2024-04-30,2024-05-30,Cancelled,UPI
+S0794,C0187,38,69,2086.47,Yes,64,M,Jaipur,Basic,1999,Monthly,1,1999,2024-06-01,2024-07-01,On Hold,Credit Card
+S0795,C0170,11,8,1980.67,Yes,28,M,Delhi,Standard,499,Custom,6,2994,2024-10-17,2025-04-17,Active,Credit Card
+S0796,C0233,23,12,3013.5,No,37,F,Ahmedabad,Premium,999,Quarterly,3,2997,2024-10-26,2025-01-26,On Hold,Net Banking
+S0797,C0190,32,5,1292.43,No,48,Other,Delhi,Standard,999,Monthly,1,999,2025-06-13,2025-07-13,On Hold,UPI
+S0798,C0035,6,17,3076.27,Yes,48,Other,Chennai,Standard,1499,Custom,15,22485,2025-02-15,2026-05-15,Cancelled,Credit Card
+S0799,C0444,42,92,2685.98,No,27,Other,Jaipur,Premium,499,Custom,14,6986,2023-12-03,2025-02-03,Cancelled,Credit Card
+S0800,C0300,17,45,2667.48,No,55,M,Bengaluru,Premium,1999,Annual,12,23988,2024-04-18,2025-04-18,On Hold,UPI
+S0801,C0145,54,5,2000.33,No,57,Other,Chennai,Basic,1999,Quarterly,3,5997,2025-03-22,2025-06-22,Active,Debit Card
+S0802,C0192,22,9,1694.98,Yes,38,M,Chennai,Basic,1999,Custom,10,19990,2024-10-12,2025-08-12,On Hold,Debit Card
+S0803,C0189,10,5,2852.26,Yes,30,M,Delhi,Premium,999,Quarterly,3,2997,2024-06-09,2024-09-09,Cancelled,Net Banking
+S0804,C0371,31,82,1939.01,Yes,47,F,Mumbai,Basic,499,Custom,15,7485,2024-12-29,2026-03-29,On Hold,Debit Card
+S0805,C0423,39,37,2541.98,No,48,Other,Mumbai,Premium,2499,Monthly,1,2499,2024-01-03,2024-02-03,On Hold,Debit Card
+S0806,C0153,49,93,670.77,No,62,M,Mumbai,Premium,1999,Custom,8,15992,2023-11-25,2024-07-25,On Hold,UPI
+S0807,C0072,39,82,4832.53,No,49,Other,Mumbai,Premium,1999,Custom,16,31984,2024-10-17,2026-02-17,Cancelled,Debit Card
+S0808,C0293,60,80,2185.27,No,33,F,Lucknow,Standard,2499,Quarterly,3,7497,2023-08-22,2023-11-22,Active,Debit Card
+S0809,C0215,14,19,4131.92,No,64,F,Bengaluru,Standard,1999,Monthly,1,1999,2024-10-04,2024-11-04,Cancelled,Net Banking
+S0810,C0293,52,84,582.64,No,56,M,Bengaluru,Basic,999,Monthly,1,999,2024-01-10,2024-02-10,Expired,Credit Card
+S0811,C0459,4,4,3366.33,No,45,F,Ahmedabad,Premium,1999,Annual,12,23988,2025-02-12,2026-02-12,On Hold,Debit Card
+S0812,C0453,43,119,3711.75,Yes,60,F,Pune,Premium,2499,Quarterly,3,7497,2023-11-19,2024-02-19,On Hold,Credit Card
+S0813,C0393,17,18,3747.3,Yes,51,Other,Hyderabad,Standard,999,Custom,22,21978,2024-07-08,2026-05-08,Cancelled,Net Banking
+S0814,C0129,34,58,729.9,No,62,F,Pune,Premium,499,Monthly,1,499,2024-12-07,2025-01-07,Cancelled,UPI
+S0815,C0022,57,59,561.22,Yes,47,F,Ahmedabad,Standard,999,Quarterly,3,2997,2025-07-08,2025-10-08,Cancelled,UPI
+S0816,C0358,38,59,3613.53,Yes,19,F,Chennai,Standard,499,Quarterly,3,1497,2025-08-03,2025-11-03,Active,Credit Card
+S0817,C0106,28,10,2556.45,No,18,F,Hyderabad,Premium,2499,Monthly,1,2499,2023-09-28,2023-10-28,On Hold,UPI
+S0818,C0279,34,94,2914.49,No,27,F,Hyderabad,Basic,499,Annual,12,5988,2025-01-13,2026-01-13,Cancelled,Credit Card
+S0819,C0157,5,3,1571.77,Yes,59,Other,Hyderabad,Standard,1999,Annual,12,23988,2023-10-10,2024-10-10,Cancelled,UPI
+S0820,C0158,58,41,4221.46,Yes,30,M,Delhi,Standard,1499,Quarterly,3,4497,2023-11-04,2024-02-04,Cancelled,Net Banking
+S0821,C0427,33,42,783.45,Yes,40,Other,Delhi,Premium,1499,Quarterly,3,4497,2024-01-29,2024-04-29,Active,Net Banking
+S0822,C0080,3,2,606.29,No,42,F,Ahmedabad,Premium,999,Custom,16,15984,2024-10-16,2026-02-16,Cancelled,UPI
+S0823,C0043,45,46,1396.55,Yes,39,F,Ahmedabad,Standard,499,Quarterly,3,1497,2024-08-22,2024-11-22,Cancelled,Credit Card
+S0824,C0172,20,12,3261.02,Yes,33,M,Hyderabad,Basic,2499,Custom,20,49980,2025-03-27,2026-11-27,On Hold,UPI
+S0825,C0271,32,45,3479.51,No,27,F,Ahmedabad,Basic,999,Annual,12,11988,2024-01-11,2025-01-11,Active,Debit Card
+S0826,C0412,32,71,1464.54,Yes,58,Other,Jaipur,Basic,1499,Quarterly,3,4497,2025-01-03,2025-04-03,Expired,Credit Card
+S0827,C0066,59,86,796.78,No,33,M,Bengaluru,Standard,1499,Quarterly,3,4497,2024-09-12,2024-12-12,Expired,Credit Card
+S0828,C0131,37,74,3806.55,No,38,F,Jaipur,Basic,2499,Quarterly,3,7497,2025-01-10,2025-04-10,Expired,Net Banking
+S0829,C0360,19,55,2771.83,Yes,51,F,Hyderabad,Basic,1499,Annual,12,17988,2024-06-19,2025-06-19,Expired,UPI
+S0830,C0421,8,20,3643.11,Yes,34,M,Hyderabad,Basic,1499,Quarterly,3,4497,2023-08-25,2023-11-25,Cancelled,Debit Card
+S0831,C0154,59,108,1550.7,Yes,49,Other,Delhi,Premium,1999,Annual,12,23988,2024-05-28,2025-05-28,Expired,UPI
+S0832,C0419,15,40,1909.57,No,54,F,Bengaluru,Standard,1499,Monthly,1,1499,2024-06-02,2024-07-02,Expired,Net Banking
+S0833,C0187,12,21,2436.42,Yes,33,M,Hyderabad,Basic,2499,Annual,12,29988,2024-10-24,2025-10-24,Expired,Net Banking
+S0834,C0086,29,40,2701.52,No,39,Other,Chennai,Premium,2499,Monthly,1,2499,2024-04-19,2024-05-19,Expired,UPI
+S0835,C0013,17,48,3458.36,Yes,38,F,Ahmedabad,Standard,999,Monthly,1,999,2023-08-22,2023-09-22,Cancelled,Debit Card
+S0836,C0095,11,16,4873.75,No,31,M,Chennai,Standard,1999,Monthly,1,1999,2025-06-23,2025-07-23,Cancelled,Debit Card
+S0837,C0256,59,106,1925.42,No,64,F,Chennai,Standard,1999,Quarterly,3,5997,2023-08-31,2023-11-30,Expired,UPI
+S0838,C0055,57,105,4338.25,Yes,31,Other,Lucknow,Premium,2499,Monthly,1,2499,2023-08-19,2023-09-19,Active,UPI
+S0839,C0004,8,11,4062.41,No,32,Other,Jaipur,Basic,2499,Quarterly,3,7497,2024-07-31,2024-10-31,Cancelled,Net Banking
+S0840,C0383,37,98,4199.38,Yes,65,F,Ahmedabad,Premium,499,Custom,14,6986,2023-11-02,2025-01-02,Expired,UPI
+S0841,C0458,59,158,3982.61,Yes,36,Other,Bengaluru,Premium,999,Monthly,1,999,2025-04-16,2025-05-16,Active,Credit Card
+S0842,C0223,54,103,1920.37,No,36,F,Bengaluru,Standard,499,Quarterly,3,1497,2024-10-01,2025-01-01,Cancelled,Credit Card
+S0843,C0328,18,34,610.91,Yes,18,M,Pune,Basic,999,Monthly,1,999,2024-07-19,2024-08-19,Expired,Credit Card
+S0844,C0059,19,9,852.45,Yes,58,Other,Pune,Basic,2499,Annual,12,29988,2023-11-29,2024-11-29,Cancelled,Credit Card
+S0845,C0333,58,53,1590.14,Yes,33,Other,Hyderabad,Standard,2499,Quarterly,3,7497,2025-04-19,2025-07-19,On Hold,UPI
+S0846,C0030,16,21,3931.43,No,49,Other,Ahmedabad,Basic,1499,Monthly,1,1499,2025-01-19,2025-02-19,Cancelled,Credit Card
+S0847,C0478,25,22,1786.46,No,47,F,Mumbai,Premium,1999,Annual,12,23988,2023-11-02,2024-11-02,Active,Net Banking
+S0848,C0118,54,118,1423.95,Yes,62,M,Delhi,Premium,499,Monthly,1,499,2024-03-16,2024-04-16,Cancelled,Credit Card
+S0849,C0163,22,10,982.05,No,65,M,Jaipur,Basic,1999,Annual,12,23988,2024-03-05,2025-03-05,Cancelled,Debit Card
+S0850,C0336,12,24,4987.7,No,28,M,Delhi,Standard,2499,Custom,2,4998,2025-04-11,2025-06-11,Active,Credit Card
+S0851,C0349,13,35,2278.55,No,25,Other,Hyderabad,Basic,1499,Custom,19,28481,2025-05-23,2026-12-23,On Hold,Debit Card
+S0852,C0498,36,68,3107.98,No,63,M,Lucknow,Premium,2499,Monthly,1,2499,2025-03-10,2025-04-10,Expired,Credit Card
+S0853,C0034,39,38,1614.01,No,53,F,Kolkata,Premium,1499,Quarterly,3,4497,2024-11-25,2025-02-25,Expired,UPI
+S0854,C0459,21,54,3662.84,Yes,32,M,Bengaluru,Basic,499,Quarterly,3,1497,2024-11-12,2025-02-12,Cancelled,Net Banking
+S0855,C0080,11,24,805.78,Yes,35,M,Pune,Basic,2499,Quarterly,3,7497,2025-03-19,2025-06-19,Cancelled,Credit Card
+S0856,C0224,28,7,3389.46,No,64,Other,Kolkata,Standard,2499,Quarterly,3,7497,2024-01-02,2024-04-02,Cancelled,Net Banking
+S0857,C0457,37,109,3828.7,Yes,39,Other,Pune,Basic,999,Custom,2,1998,2023-10-06,2023-12-06,On Hold,UPI
+S0858,C0175,56,26,2349.06,Yes,56,F,Lucknow,Basic,2499,Quarterly,3,7497,2024-12-24,2025-03-24,Expired,UPI
+S0859,C0144,34,8,1996.42,Yes,61,Other,Hyderabad,Standard,999,Quarterly,3,2997,2024-11-17,2025-02-17,Cancelled,UPI
+S0860,C0153,52,134,2406.66,No,35,M,Delhi,Basic,999,Monthly,1,999,2024-04-27,2024-05-27,Active,UPI
+S0861,C0422,36,53,3057.99,Yes,47,Other,Ahmedabad,Standard,2499,Custom,11,27489,2023-08-28,2024-07-28,Active,Debit Card
+S0862,C0476,50,6,3836.8,No,62,M,Pune,Basic,1999,Monthly,1,1999,2024-06-27,2024-07-27,Expired,UPI
+S0863,C0313,20,23,2869.3,No,22,Other,Chennai,Basic,999,Annual,12,11988,2024-07-06,2025-07-06,Active,UPI
+S0864,C0402,15,40,4405.27,No,53,F,Kolkata,Basic,2499,Quarterly,3,7497,2024-02-24,2024-05-24,Expired,UPI
+S0865,C0386,51,95,1166.27,No,39,M,Bengaluru,Premium,499,Monthly,1,499,2023-12-05,2024-01-05,Cancelled,Net Banking
+S0866,C0321,37,52,3734.06,No,47,M,Kolkata,Basic,1499,Annual,12,17988,2025-01-04,2026-01-04,Expired,UPI
+S0867,C0407,57,10,2242.96,Yes,25,Other,Bengaluru,Standard,1999,Monthly,1,1999,2024-09-15,2024-10-15,Active,UPI
+S0868,C0270,5,4,2960.21,No,45,M,Chennai,Standard,1499,Annual,12,17988,2023-09-07,2024-09-07,Active,Credit Card
+S0869,C0069,25,23,4191.8,Yes,44,M,Pune,Standard,1499,Quarterly,3,4497,2025-01-23,2025-04-23,On Hold,Debit Card
+S0870,C0248,43,30,1141.84,Yes,22,F,Pune,Standard,1499,Monthly,1,1499,2024-03-06,2024-04-06,Cancelled,Credit Card
+S0871,C0191,51,85,1206.44,Yes,48,M,Hyderabad,Standard,999,Annual,12,11988,2023-09-20,2024-09-20,Expired,Credit Card
+S0872,C0204,3,4,4118.89,No,20,M,Lucknow,Basic,1999,Monthly,1,1999,2024-04-18,2024-05-18,Expired,UPI
+S0873,C0116,21,39,1120.9,No,52,M,Pune,Standard,2499,Custom,24,59976,2023-09-28,2025-09-28,Active,UPI
+S0874,C0490,14,15,3783.7,No,44,M,Chennai,Premium,1999,Monthly,1,1999,2023-09-24,2023-10-24,Cancelled,Debit Card
+S0875,C0447,57,89,4412.28,No,54,M,Lucknow,Basic,1999,Custom,11,21989,2023-11-15,2024-10-15,Expired,UPI
+S0876,C0068,60,2,4320.32,No,41,M,Kolkata,Premium,499,Annual,12,5988,2025-08-02,2026-08-02,Cancelled,Net Banking
+S0877,C0446,59,129,2794.33,Yes,33,Other,Delhi,Basic,499,Custom,13,6487,2024-10-31,2025-11-30,Expired,UPI
+S0878,C0250,13,35,657.72,No,48,F,Hyderabad,Premium,499,Custom,24,11976,2024-02-20,2026-02-20,Expired,Credit Card
+S0879,C0090,31,70,2576.8,No,44,M,Chennai,Premium,1499,Custom,5,7495,2024-02-08,2024-07-08,Cancelled,UPI
+S0880,C0097,43,18,3071.88,No,39,Other,Mumbai,Basic,1499,Quarterly,3,4497,2024-06-30,2024-09-30,Cancelled,Credit Card
+S0881,C0433,38,11,4928.02,Yes,39,M,Pune,Premium,499,Monthly,1,499,2024-11-15,2024-12-15,Expired,Debit Card
+S0882,C0076,55,141,804.34,No,40,M,Lucknow,Standard,1499,Monthly,1,1499,2025-08-09,2025-09-09,Expired,Credit Card
+S0883,C0118,56,116,4850.56,Yes,64,F,Jaipur,Standard,1999,Monthly,1,1999,2024-08-11,2024-09-11,Expired,Credit Card
+S0884,C0164,40,15,3825.25,No,33,M,Lucknow,Standard,1999,Custom,24,47976,2024-10-26,2026-10-26,Active,Debit Card
+S0885,C0491,22,31,4413.41,Yes,64,M,Lucknow,Basic,1999,Annual,12,23988,2023-08-15,2024-08-15,Active,Net Banking
+S0886,C0314,7,17,4232.22,No,19,Other,Hyderabad,Basic,2499,Annual,12,29988,2024-05-09,2025-05-09,Cancelled,Debit Card
+S0887,C0013,31,62,3387.06,Yes,61,M,Delhi,Standard,2499,Annual,12,29988,2024-12-24,2025-12-24,Cancelled,Credit Card
+S0888,C0145,21,12,976.47,Yes,59,Other,Hyderabad,Basic,999,Annual,12,11988,2025-06-03,2026-06-03,Active,UPI
+S0889,C0286,55,2,3748.56,No,35,M,Delhi,Standard,1999,Quarterly,3,5997,2024-04-09,2024-07-09,Expired,UPI
+S0890,C0416,9,6,784.67,Yes,44,F,Chennai,Standard,499,Quarterly,3,1497,2024-07-27,2024-10-27,Active,UPI
+S0891,C0125,24,62,3719.78,Yes,41,F,Jaipur,Basic,999,Quarterly,3,2997,2024-12-13,2025-03-13,Cancelled,Credit Card
+S0892,C0090,50,50,3812.78,No,51,Other,Mumbai,Premium,1999,Annual,12,23988,2025-01-19,2026-01-19,Active,Net Banking
+S0893,C0345,25,57,1362.66,Yes,19,F,Hyderabad,Basic,1999,Custom,15,29985,2024-05-21,2025-08-21,Active,Credit Card
+S0894,C0229,21,15,2690.51,Yes,44,Other,Mumbai,Premium,2499,Monthly,1,2499,2024-01-24,2024-02-24,Expired,Debit Card
+S0895,C0370,51,80,4362.63,No,21,F,Pune,Standard,499,Monthly,1,499,2024-07-03,2024-08-03,On Hold,Net Banking
+S0896,C0065,56,154,3131.9,Yes,31,Other,Chennai,Premium,1499,Annual,12,17988,2024-12-23,2025-12-23,Active,Net Banking
+S0897,C0321,48,85,4414.44,No,51,F,Ahmedabad,Premium,2499,Custom,16,39984,2025-02-04,2026-06-04,Active,Net Banking
+S0898,C0137,39,80,4263.81,No,59,F,Mumbai,Basic,1999,Monthly,1,1999,2024-11-25,2024-12-25,Expired,Debit Card
+S0899,C0215,40,10,3844.13,No,20,Other,Hyderabad,Premium,1499,Annual,12,17988,2024-01-28,2025-01-28,Cancelled,Credit Card
+S0900,C0017,8,15,3574.93,No,24,F,Hyderabad,Premium,1499,Monthly,1,1499,2024-11-03,2024-12-03,Expired,Credit Card
+S0901,C0030,41,115,2128.72,No,41,M,Hyderabad,Premium,2499,Custom,24,59976,2024-01-06,2026-01-06,On Hold,UPI
+S0902,C0173,51,45,3280.05,No,50,F,Kolkata,Standard,1499,Custom,23,34477,2023-09-06,2025-08-06,Cancelled,Credit Card
+S0903,C0253,35,53,2088.49,No,49,F,Kolkata,Standard,1999,Custom,13,25987,2024-09-18,2025-10-18,Expired,UPI
+S0904,C0007,35,40,939.79,Yes,57,Other,Hyderabad,Premium,999,Quarterly,3,2997,2023-10-14,2024-01-14,Cancelled,Credit Card
+S0905,C0108,41,83,1898.5,No,58,M,Delhi,Standard,1999,Monthly,1,1999,2024-10-28,2024-11-28,On Hold,Credit Card
+S0906,C0248,5,6,3765.51,Yes,54,F,Pune,Basic,2499,Annual,12,29988,2024-06-02,2025-06-02,On Hold,Net Banking
+S0907,C0200,4,7,4469.12,Yes,18,Other,Jaipur,Standard,2499,Monthly,1,2499,2023-11-07,2023-12-07,Cancelled,Debit Card
+S0908,C0253,52,68,2035.87,No,41,M,Chennai,Standard,1999,Quarterly,3,5997,2024-07-01,2024-10-01,Expired,Debit Card
+S0909,C0004,6,11,3154.2,Yes,31,M,Pune,Basic,1999,Custom,16,31984,2024-07-07,2025-11-07,On Hold,UPI
+S0910,C0266,56,26,2844.49,No,47,M,Kolkata,Basic,999,Quarterly,3,2997,2024-07-02,2024-10-02,Active,Credit Card
+S0911,C0464,27,17,3578.31,No,34,Other,Kolkata,Premium,1999,Monthly,1,1999,2025-05-06,2025-06-06,Expired,Net Banking
+S0912,C0179,9,24,4512.23,No,61,Other,Bengaluru,Standard,999,Annual,12,11988,2024-12-10,2025-12-10,Cancelled,Debit Card
+S0913,C0402,56,130,3754.84,Yes,33,Other,Pune,Basic,499,Monthly,1,499,2023-10-09,2023-11-09,Expired,Credit Card
+S0914,C0064,11,29,2057.52,No,56,M,Mumbai,Standard,1999,Custom,5,9995,2023-11-25,2024-04-25,Active,Debit Card
+S0915,C0230,54,74,3991.94,Yes,21,M,Chennai,Basic,2499,Custom,24,59976,2025-05-30,2027-05-30,On Hold,UPI
+S0916,C0078,58,48,3606.62,Yes,37,Other,Pune,Basic,2499,Quarterly,3,7497,2023-10-17,2024-01-17,On Hold,Net Banking
+S0917,C0347,27,2,1572.31,Yes,41,F,Lucknow,Standard,2499,Monthly,1,2499,2024-06-26,2024-07-26,On Hold,Net Banking
+S0918,C0236,14,17,1022.85,Yes,21,F,Bengaluru,Basic,1999,Quarterly,3,5997,2024-12-24,2025-03-24,Cancelled,Net Banking
+S0919,C0260,14,29,3313.31,No,29,Other,Delhi,Basic,2499,Monthly,1,2499,2024-06-12,2024-07-12,Expired,Credit Card
+S0920,C0163,3,3,3906.63,No,31,Other,Chennai,Premium,1499,Annual,12,17988,2025-03-22,2026-03-22,On Hold,Debit Card
+S0921,C0126,45,7,4048.13,No,33,F,Ahmedabad,Premium,1999,Annual,12,23988,2024-02-20,2025-02-20,Active,UPI
+S0922,C0306,45,95,804.01,No,50,Other,Ahmedabad,Basic,999,Annual,12,11988,2024-02-10,2025-02-10,On Hold,Debit Card
+S0923,C0284,22,41,4373.59,No,57,Other,Hyderabad,Premium,1499,Annual,12,17988,2025-07-07,2026-07-07,Expired,UPI
+S0924,C0208,20,14,4484.2,No,34,M,Pune,Basic,2499,Custom,2,4998,2025-02-02,2025-04-02,On Hold,Debit Card
+S0925,C0487,55,5,3005.94,No,63,Other,Jaipur,Standard,499,Custom,19,9481,2024-05-08,2025-12-08,Expired,Debit Card
+S0926,C0414,45,115,4541.29,Yes,41,F,Delhi,Basic,1999,Annual,12,23988,2023-10-04,2024-10-04,On Hold,UPI
+S0927,C0224,3,3,2013.07,No,65,Other,Pune,Premium,1999,Quarterly,3,5997,2024-08-10,2024-11-10,On Hold,Net Banking
+S0928,C0312,18,22,1562.62,No,31,F,Pune,Standard,499,Custom,22,10978,2024-06-08,2026-04-08,Cancelled,Credit Card
+S0929,C0456,50,92,4337.9,No,31,F,Mumbai,Standard,1499,Custom,6,8994,2025-07-31,2026-01-31,On Hold,Net Banking
+S0930,C0212,6,6,1676.09,No,39,F,Ahmedabad,Premium,1999,Annual,12,23988,2024-08-25,2025-08-25,Expired,Credit Card
+S0931,C0063,34,58,763.42,No,26,M,Kolkata,Basic,499,Custom,18,8982,2025-02-25,2026-08-25,On Hold,Net Banking
+S0932,C0465,58,77,2654.32,Yes,44,F,Kolkata,Premium,1499,Quarterly,3,4497,2023-09-13,2023-12-13,Expired,Debit Card
+S0933,C0239,15,40,3594.18,Yes,53,Other,Chennai,Premium,1499,Monthly,1,1499,2024-03-13,2024-04-13,Active,Debit Card
+S0934,C0394,9,5,2771.06,No,46,Other,Kolkata,Basic,999,Annual,12,11988,2023-10-27,2024-10-27,On Hold,UPI
+S0935,C0497,20,17,1174.1,Yes,59,F,Lucknow,Basic,1999,Quarterly,3,5997,2025-06-03,2025-09-03,Cancelled,UPI
+S0936,C0242,3,3,1110.72,No,27,M,Jaipur,Basic,999,Monthly,1,999,2023-11-29,2023-12-29,On Hold,Credit Card
+S0937,C0472,23,42,2887.93,Yes,37,M,Delhi,Premium,499,Quarterly,3,1497,2025-01-21,2025-04-21,Cancelled,Debit Card
+S0938,C0086,33,58,2451.38,No,37,M,Chennai,Premium,499,Custom,18,8982,2024-05-02,2025-11-02,Cancelled,Debit Card
+S0939,C0242,4,10,2312.83,Yes,50,Other,Delhi,Premium,1999,Custom,6,11994,2023-09-21,2024-03-21,Expired,Debit Card
+S0940,C0139,34,14,4319.48,No,34,Other,Jaipur,Standard,999,Custom,22,21978,2025-08-06,2027-06-06,On Hold,Net Banking
+S0941,C0429,9,16,1313.43,No,35,M,Lucknow,Premium,1999,Monthly,1,1999,2024-08-02,2024-09-02,Expired,Net Banking
+S0942,C0292,45,131,1643.78,No,24,Other,Hyderabad,Basic,2499,Monthly,1,2499,2023-10-04,2023-11-04,On Hold,Debit Card
+S0943,C0111,12,32,3286.67,No,56,M,Kolkata,Basic,2499,Custom,17,42483,2024-12-29,2026-05-29,Active,Debit Card
+S0944,C0460,45,25,3316.82,No,35,M,Pune,Standard,499,Monthly,1,499,2023-10-21,2023-11-21,Active,Credit Card
+S0945,C0005,11,4,4891.62,No,51,Other,Kolkata,Basic,1999,Annual,12,23988,2024-03-17,2025-03-17,Cancelled,Credit Card
+S0946,C0486,35,4,1479.69,Yes,34,M,Kolkata,Standard,499,Quarterly,3,1497,2024-11-18,2025-02-18,Cancelled,Credit Card
+S0947,C0492,56,62,1252.36,Yes,22,Other,Hyderabad,Basic,999,Monthly,1,999,2023-11-13,2023-12-13,Active,Debit Card
+S0948,C0488,25,54,3061.78,No,56,F,Delhi,Basic,999,Monthly,1,999,2025-06-07,2025-07-07,Cancelled,Debit Card
+S0949,C0266,12,27,1937.67,Yes,30,M,Lucknow,Basic,1499,Annual,12,17988,2023-12-04,2024-12-04,Active,Credit Card
+S0950,C0029,25,39,3544.0,No,31,Other,Lucknow,Standard,1499,Annual,12,17988,2024-11-08,2025-11-08,On Hold,Net Banking
+S0951,C0269,18,44,3601.44,Yes,58,Other,Mumbai,Standard,499,Custom,23,11477,2024-04-26,2026-03-26,Cancelled,Credit Card
+S0952,C0332,15,5,1779.53,Yes,57,F,Lucknow,Premium,499,Quarterly,3,1497,2025-03-21,2025-06-21,Expired,Debit Card
+S0953,C0479,33,12,3853.79,No,37,M,Pune,Standard,2499,Custom,13,32487,2025-05-26,2026-06-26,Active,Debit Card
+S0954,C0211,56,69,973.31,Yes,50,F,Hyderabad,Premium,1499,Annual,12,17988,2025-07-20,2026-07-20,Expired,UPI
+S0955,C0307,20,26,4133.56,No,33,F,Hyderabad,Premium,2499,Annual,12,29988,2024-11-14,2025-11-14,Expired,Credit Card
+S0956,C0387,31,18,958.95,No,38,F,Pune,Standard,2499,Monthly,1,2499,2025-07-04,2025-08-04,On Hold,Net Banking
+S0957,C0213,37,69,966.06,No,61,F,Lucknow,Premium,1999,Monthly,1,1999,2023-08-24,2023-09-24,Cancelled,Net Banking
+S0958,C0409,40,57,3770.13,No,62,Other,Bengaluru,Basic,499,Monthly,1,499,2025-06-29,2025-07-29,Active,UPI
+S0959,C0419,42,68,1885.78,No,50,F,Bengaluru,Premium,2499,Custom,8,19992,2024-02-24,2024-10-24,Cancelled,Credit Card
+S0960,C0111,42,116,796.67,Yes,21,F,Lucknow,Standard,1999,Monthly,1,1999,2025-04-13,2025-05-13,Active,Credit Card
+S0961,C0277,19,16,896.67,No,56,F,Pune,Premium,999,Quarterly,3,2997,2025-02-11,2025-05-11,Active,UPI
+S0962,C0385,19,28,583.78,Yes,60,Other,Ahmedabad,Premium,999,Custom,22,21978,2023-12-11,2025-10-11,Expired,UPI
+S0963,C0484,39,6,1239.69,No,45,F,Hyderabad,Basic,1499,Custom,20,29980,2023-10-20,2025-06-20,Expired,UPI
+S0964,C0383,55,24,1638.95,No,55,Other,Lucknow,Standard,1499,Quarterly,3,4497,2025-05-07,2025-08-07,Active,Credit Card
+S0965,C0468,39,31,4494.88,Yes,58,Other,Chennai,Standard,1499,Quarterly,3,4497,2024-03-24,2024-06-24,Active,UPI
+S0966,C0162,36,101,1856.91,No,43,F,Ahmedabad,Basic,499,Custom,22,10978,2024-06-03,2026-04-03,Expired,Debit Card
+S0967,C0353,7,8,1611.78,Yes,22,F,Delhi,Standard,499,Quarterly,3,1497,2025-06-06,2025-09-06,On Hold,UPI
+S0968,C0120,54,69,4650.43,No,44,Other,Lucknow,Basic,1999,Monthly,1,1999,2024-09-30,2024-10-30,Active,Credit Card
+S0969,C0181,49,79,2503.1,Yes,56,Other,Pune,Premium,999,Annual,12,11988,2024-01-16,2025-01-16,Expired,UPI
+S0970,C0353,27,21,1185.4,Yes,22,M,Kolkata,Basic,2499,Annual,12,29988,2025-04-28,2026-04-28,On Hold,Net Banking
+S0971,C0128,45,19,523.67,Yes,41,F,Mumbai,Premium,499,Custom,8,3992,2023-11-07,2024-07-07,Cancelled,Net Banking
+S0972,C0242,39,71,4036.28,No,57,M,Kolkata,Standard,499,Monthly,1,499,2024-09-13,2024-10-13,Cancelled,Debit Card
+S0973,C0251,34,46,4946.22,No,52,F,Ahmedabad,Basic,2499,Monthly,1,2499,2025-07-12,2025-08-12,Cancelled,UPI
+S0974,C0211,1,2,3725.1,No,58,M,Ahmedabad,Premium,2499,Quarterly,3,7497,2024-05-23,2024-08-23,Active,Credit Card
+S0975,C0400,8,17,4888.85,No,52,F,Ahmedabad,Standard,999,Custom,14,13986,2024-01-06,2025-03-06,Active,Debit Card
+S0976,C0297,17,3,1887.72,Yes,49,F,Bengaluru,Premium,499,Quarterly,3,1497,2024-01-01,2024-04-01,Active,Credit Card
+S0977,C0454,29,65,4141.68,No,52,M,Jaipur,Premium,499,Custom,3,1497,2024-12-10,2025-03-10,On Hold,UPI
+S0978,C0105,44,38,3329.83,Yes,52,Other,Chennai,Basic,999,Quarterly,3,2997,2024-01-27,2024-04-27,Cancelled,Debit Card
+S0979,C0121,57,22,4752.49,No,43,Other,Ahmedabad,Standard,1499,Quarterly,3,4497,2024-06-09,2024-09-09,Cancelled,Credit Card
+S0980,C0324,46,92,3152.74,No,37,M,Hyderabad,Basic,2499,Custom,5,12495,2025-01-03,2025-06-03,On Hold,Net Banking
+S0981,C0244,32,8,2054.5,No,25,M,Bengaluru,Basic,2499,Custom,4,9996,2023-12-09,2024-04-09,Active,Net Banking
+S0982,C0077,35,37,2526.6,No,61,F,Chennai,Premium,1499,Annual,12,17988,2025-08-03,2026-08-03,Cancelled,Credit Card
+S0983,C0191,53,123,3847.28,No,55,F,Mumbai,Premium,2499,Quarterly,3,7497,2025-07-21,2025-10-21,Expired,Net Banking
+S0984,C0193,42,73,2586.52,Yes,51,Other,Bengaluru,Standard,999,Custom,24,23976,2025-04-20,2027-04-20,On Hold,Debit Card
+S0985,C0223,28,82,3236.56,No,45,Other,Pune,Premium,1499,Monthly,1,1499,2023-09-28,2023-10-28,Expired,Net Banking
+S0986,C0241,27,38,2367.54,No,64,Other,Lucknow,Standard,999,Annual,12,11988,2024-12-22,2025-12-22,On Hold,Credit Card
+S0987,C0374,1,2,3790.85,Yes,59,M,Chennai,Standard,1499,Custom,6,8994,2025-08-09,2026-02-09,Cancelled,Debit Card
+S0988,C0035,2,1,3886.51,No,24,F,Hyderabad,Standard,2499,Monthly,1,2499,2025-02-13,2025-03-13,Cancelled,Net Banking
+S0989,C0042,26,4,4328.07,No,21,M,Chennai,Standard,1499,Quarterly,3,4497,2024-03-29,2024-06-29,Cancelled,Net Banking
+S0990,C0166,24,55,4187.3,No,50,Other,Pune,Premium,1499,Monthly,1,1499,2025-01-30,2025-02-28,Active,Credit Card
+S0991,C0483,10,14,1013.28,Yes,64,M,Hyderabad,Premium,499,Quarterly,3,1497,2025-08-02,2025-11-02,On Hold,Credit Card
+S0992,C0072,44,128,1642.44,Yes,23,M,Hyderabad,Standard,1499,Quarterly,3,4497,2024-12-09,2025-03-09,Active,Net Banking
+S0993,C0191,52,2,2095.53,No,49,M,Bengaluru,Basic,499,Annual,12,5988,2024-06-17,2025-06-17,Expired,Debit Card
+S0994,C0164,16,1,3457.15,Yes,27,Other,Hyderabad,Premium,499,Custom,14,6986,2023-09-14,2024-11-14,Cancelled,Net Banking
+S0995,C0340,48,41,3592.74,No,33,Other,Jaipur,Premium,1499,Custom,7,10493,2024-02-22,2024-09-22,On Hold,Credit Card
+S0996,C0468,45,72,3390.68,No,57,M,Pune,Standard,1499,Annual,12,17988,2024-02-09,2025-02-09,On Hold,Net Banking
+S0997,C0003,51,106,651.37,No,32,Other,Bengaluru,Basic,499,Monthly,1,499,2024-09-14,2024-10-14,Cancelled,Debit Card
+S0998,C0279,42,29,3958.05,No,58,M,Delhi,Premium,2499,Custom,23,57477,2024-01-17,2025-12-17,Active,Debit Card
+S0999,C0108,55,73,1714.62,Yes,22,M,Bengaluru,Basic,1999,Quarterly,3,5997,2024-11-26,2025-02-26,Expired,UPI
+S1000,C0425,9,4,2503.5,Yes,31,M,Pune,Standard,999,Monthly,1,999,2023-12-17,2024-01-17,Active,Credit Card
